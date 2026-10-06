@@ -93,7 +93,7 @@ artifacts/   게임 화면 캡처와 에셋 비교 이미지
 
 ---
 
-만든 사람: 양희문, (주)시스루
+만든 사람: 양희문, [(주)시스루 theethru Inc.](https://theethru.com)
 
 ## 라이선스
 
