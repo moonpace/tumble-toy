@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "id: 9402a1eb-0be4-4b46-963f-6137d42cbf39\njob_id: 9402a1eb-0be4-4b46-963f-6137d42cbf39\ndescription: Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. Use the supplied full-canvas flat material guide exactly. A seamless front-facing texture swatch for a blank cream toy die surface, warm ivory matte painted wood with very sparse cream and peach 1 to 2 pixel flecks, four colors maximum, tile seamlessly on all edges. It must fill the entire square as a flat texture: no circle, die object, pips, dots, numerals, letters, symbols, silhouette, perspective, border, shadow, blue backdrop or gradients.\nsize: 32x32px\ntransparent: False\nasset_id: 856aca33-ad25-5d22-abf4-ac3cc0c77d72\nasset_status: pending (saved when generation completes)\ninit_image: yes (strength 500)\nforced_palette: yes\nseed: 2402\ncost: 1 generation\nstatus: processing (~10-40s)\n\nhint: get_image(job_id=\"9402a1eb-0be4-4b46-963f-6137d42cbf39\")"
+    }
+  ],
+  "isError": false
+}

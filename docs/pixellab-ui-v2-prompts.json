@@ -1,0 +1,49 @@
+{
+  "status": "mcp_generated_connected_validation_passed",
+  "model": "PixelLab create_ui_asset",
+  "transport": "PixelLab MCP via mcp-remote and https://api.pixellab.ai/mcp",
+  "reason": "VIS-204–210 v1 had inconsistent corners, noisy borders, and visibly repeated stretch bands when used as nine-patch UI.",
+  "style_reference": {
+    "path": "artifacts/pixellab-ui-v2/style-reference.png",
+    "description": "A contact sheet assembled from the approved PixelLab gameplay sprites and palette. It is supplied only as a style reference."
+  },
+  "request": {
+    "tool": "create_ui_asset",
+    "width": 512,
+    "height": 512,
+    "seed": 3204,
+    "no_background": true,
+    "color_palette": "warm cream #FFF8E7, dark plum #302846, mint #D9F2DD, coral #FF8F9D, peach #FFC6A5, sky blue #BCE8F5",
+    "description": "One cohesive blank pixel-art UI kit sheet for Tumble Toy, a cute handmade toy-block puzzle game. Extremely clean, restrained and readable at small mobile size. All seven pieces use the same perfectly symmetrical 2-pixel dark-plum outline, simple rounded corners, large uninterrupted flat centers, and only one 1-pixel inner highlight plus one 2-pixel bottom shadow. Panel: warm cream with a very thin mint inner edge. Default button: warm cream with mint highlight. Primary button: coral face with pale-cream highlight. Pressed button: muted mint face with a dark-plum one-pixel inset at the top. View tab: pale sky-blue face with a thin coral selected underline. Direction button: warm cream face, mint edge, peach bottom shadow. Item slot: warm cream center with a thin peach inset. Every corner of a given piece must be identical and every long edge must have a completely flat repeatable middle section suitable for nine-slice stretching. No text, letters, numbers, icons, arrows, symbols, checkerboard, stripes, stitches, corner ornaments, random pixels, texture noise, gradients, gaps, asymmetry, extra objects, or background."
+  },
+  "pieces": [
+    {"id":"panel","kind":"rounded_rect","x":16,"y":16,"w":224,"h":224,"radius":16,"label":""},
+    {"id":"default_button","kind":"rounded_rect","x":272,"y":24,"w":224,"h":56,"radius":12,"label":""},
+    {"id":"primary_button","kind":"rounded_rect","x":272,"y":96,"w":224,"h":56,"radius":12,"label":""},
+    {"id":"pressed_button","kind":"rounded_rect","x":272,"y":168,"w":224,"h":56,"radius":12,"label":""},
+    {"id":"view_tab","kind":"rounded_rect","x":272,"y":240,"w":224,"h":56,"radius":12,"label":""},
+    {"id":"direction_button","kind":"rounded_rect","x":272,"y":320,"w":96,"h":80,"radius":12,"label":""},
+    {"id":"item_slot","kind":"rounded_rect","x":400,"y":320,"w":96,"h":96,"radius":12,"label":""}
+  ],
+  "outputs": [
+    {"id":"VIS-204-v2","path":"assets/visual/ui/panel_9slice.png","size":[48,48],"margin":8,"sha256":"ac09cf8d2dd00def2f7a92480ab91bd863eb872798d39ceb2caa9d34943f184d"},
+    {"id":"VIS-205-v2","path":"assets/visual/ui/button_default_9slice.png","size":[48,24],"margin":6,"sha256":"4240c341bfe4cd3a6963c83c7ac779a087bea7fd3d6329a746cbdbe08bb622f3"},
+    {"id":"VIS-206-v2","path":"assets/visual/ui/button_primary_9slice.png","size":[48,24],"margin":6,"sha256":"b5c282ad831a58c1a46f9e238b09d789a98412f6492c1193aa4e840dec69d876"},
+    {"id":"VIS-207-v2","path":"assets/visual/ui/button_pressed_9slice.png","size":[48,24],"margin":6,"sha256":"f0c4f63577dda159a50f75d09634b438dd678afeed67a4ed4389275a9f8c6693"},
+    {"id":"VIS-208-v2","path":"assets/visual/ui/view_tab_9slice.png","size":[52,28],"margin":6,"sha256":"7523cc35741e818a5d66f932e22c15335f296763e221a5f65dc6372425c7abf3"},
+    {"id":"VIS-209-v2","path":"assets/visual/ui/direction_button.png","size":[54,44],"margin":0,"sha256":"d6fd73c0f9bdc82194d0d7bf5c166bc7ec2d76ed6e1d77f1ac9d0da78a7de8d0"},
+    {"id":"VIS-210-v2","path":"assets/visual/ui/item_slot_9slice.png","size":[40,40],"margin":6,"sha256":"942d755db2572b98413c89090bf6e49a1eb4c7e76fa8e745e400a9112c9e9a84","postprocess":"The MCP sheet's dark-teal center and teal edge were mapped to the approved cream and mint palette so dark-plum code text remains readable."}
+  ],
+  "generation": {
+    "ui_asset_id": "766f3f62-ff96-4c13-8e58-68f2e8f72d54",
+    "source_sheet": "artifacts/pixellab-ui-v2/ui-kit-512.png",
+    "source_sheet_sha256": "2d6a24d22d39f91df86bf6ef825108f0418980d992aa432c3d864dc1eac7d6f7",
+    "result_record": "artifacts/pixellab-ui-v2/final-results.json"
+  },
+  "validation": {
+    "asset_audit": "passed: 20 runtime visual assets",
+    "rules": "passed: 100 levels",
+    "campaign": "passed: 1537 inputs across 100 stages",
+    "screen_contact_sheet": "artifacts/pixellab-ui-v2/ui-screens-v2.png"
+  }
+}

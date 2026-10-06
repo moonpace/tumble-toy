@@ -1,0 +1,8 @@
+{
+  "asset_id": "VIS-206",
+  "job_id": "11450826-824e-4189-8876-5a9385e4724e",
+  "is_error": false,
+  "text": "status: completed\nid: 11450826-824e-4189-8876-5a9385e4724e\njob_id: 11450826-824e-4189-8876-5a9385e4724e\nframes: 1\ntransparent: yes\nasset_id: b436af2a-360c-5c74-b4d2-f838ad27e44f\nasset_type: image\nasset_status: saved\ngallery: saved to your PixelLab gallery (pixellab.ai/create)\ndownload: https://api.pixellab.ai/mcp/images/11450826-824e-4189-8876-5a9385e4724e/download",
+  "mime_type": "image/png",
+  "received_image": true
+}

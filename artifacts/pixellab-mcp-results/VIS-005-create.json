@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "id: 48753987-69fe-453c-8f68-0889c5be29e3\njob_id: 48753987-69fe-453c-8f68-0889c5be29e3\ndescription: Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. Use the supplied ring badge exactly. A single round mint UI badge contained entirely inside the centered 20 by 20 pixel safe area of this 32 by 32 transparent canvas. Blank pale-cream center reserved for one code-rendered number and a 1-pixel dark-plum outline. The outer area must remain transparent; no numeral, symbol, square backdrop or opaque canvas.\nsize: 32x32px\ntransparent: True\nasset_id: f79c8248-f000-5c10-88ac-2cd324331703\nasset_status: pending (saved when generation completes)\ninit_image: yes (strength 450)\nforced_palette: yes\nseed: 2205\ncost: 1 generation\nstatus: processing (~10-40s)\n\nhint: get_image(job_id=\"48753987-69fe-453c-8f68-0889c5be29e3\")"
+    }
+  ],
+  "isError": false
+}

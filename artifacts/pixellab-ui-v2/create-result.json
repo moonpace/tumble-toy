@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "id: 766f3f62-ff96-4c13-8e58-68f2e8f72d54\ndescription: One cohesive blank pixel-art UI kit sheet for Tumble Toy, a cute handmade toy-block puzzle game. Extremely clean, restrained and readable at small mobile size. All seven pieces use the same perfectly symmetrical 2-pixel dark-plum outline, simple rounded corners, large uninterrupted flat centers, and only one 1-pixel inner highlight plus one 2-pixel bottom shadow. Panel: warm cream with a very thin mint inner edge. Default button: warm cream with mint highlight. Primary button: coral face with pale-cream highlight. Pressed button: muted mint face with a dark-plum one-pixel inset at the top. View tab: pale sky-blue face with a thin coral selected underline. Direction button: warm cream face, mint edge, peach bottom shadow. Item slot: warm cream center with a thin peach inset. Every corner of a given piece must be identical and every long edge must have a completely flat repeatable middle section suitable for nine-slice stretching. No text, letters, numbers, icons, arrows, symbols, checkerboard, stripes, stitches, corner ornaments, random pixels, texture noise, gradients, gaps, asymmetry, extra objects, or background.\nmode: ui-panel (512x512px)\ncost: 40 generations\nstatus: processing (~30-90s)\n\nhint: get_ui_asset(ui_asset_id=\"766f3f62-ff96-4c13-8e58-68f2e8f72d54\")"
+    }
+  ],
+  "isError": false
+}

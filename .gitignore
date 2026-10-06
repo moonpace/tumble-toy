@@ -1,0 +1,10 @@
+# Godot
+.godot/
+*.tmp
+
+# OS
+.DS_Store
+
+# Secrets
+.env
+.env.*

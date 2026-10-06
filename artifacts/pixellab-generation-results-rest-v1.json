@@ -1,0 +1,593 @@
+{
+  "generated_at_unix": 1791212223.131476,
+  "results": [
+    {
+      "id": "VIS-001",
+      "path": "assets/visual/gameplay/die_body.png",
+      "source": "artifacts/pixellab-originals/VIS-001.png",
+      "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A single blank six-sided toy die body in quarter view, cream top face, mint left face, peach right face, compact 1-pixel dark-plum outline, centered with a transparent margin. No pips or symbols; all three visible faces must stay blank for code-rendered values.",
+      "request": {
+        "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A single blank six-sided toy die body in quarter view, cream top face, mint left face, peach right face, compact 1-pixel dark-plum outline, centered with a transparent margin. No pips or symbols; all three visible faces must stay blank for code-rendered values.",
+        "image_size": {
+          "width": 36,
+          "height": 36
+        },
+        "text_guidance_scale": 8,
+        "isometric": true,
+        "no_background": true,
+        "color_image": {
+          "type": "base64",
+          "base64": "iVBORw0KGgoAAAANSUhEUgAAAAYAAAABCAIAAAByq0inAAAAHElEQVR4nGP8/+P5rV/fHn+TcL63geHkD8OZKwGGaAygwiu/zgAAAABJRU5ErkJggg=="
+        },
+        "seed": 2101
+      },
+      "usage": {
+        "type": "generations",
+        "generations": 1.0
+      },
+      "source_sha256": "6d999a9dff9f49a50ce0aec69d1cf33127104c7e097113af1c1d9b329ffb771d",
+      "final_sha256": "d99cfc29accf102e92f1f5629e9246a93b305e9a52668d96e48ac446daa0d981"
+    },
+    {
+      "id": "VIS-002",
+      "path": "assets/visual/gameplay/floor_tile.png",
+      "source": "artifacts/pixellab-originals/VIS-002.png",
+      "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A single seamless quarter-view toy building-block floor tile, warm cream diamond top with shallow peach side faces and clear edge separation, centered with a transparent margin, no symbols.",
+      "request": {
+        "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A single seamless quarter-view toy building-block floor tile, warm cream diamond top with shallow peach side faces and clear edge separation, centered with a transparent margin, no symbols.",
+        "image_size": {
+          "width": 36,
+          "height": 36
+        },
+        "text_guidance_scale": 8,
+        "isometric": true,
+        "no_background": true,
+        "color_image": {
+          "type": "base64",
+          "base64": "iVBORw0KGgoAAAANSUhEUgAAAAYAAAABCAIAAAByq0inAAAAHElEQVR4nGP8/+P5rV/fHn+TcL63geHkD8OZKwGGaAygwiu/zgAAAABJRU5ErkJggg=="
+        },
+        "seed": 2102
+      },
+      "usage": null,
+      "recovered_from_completed_file": true,
+      "source_sha256": "a8d694741d51e6661c19954639244693339d6fa80d656e8aacc13fe32d7273fb",
+      "final_sha256": "833cd0cbd2e57c88b430850b38d39835b896a8e4232180da7ab2df44bcc6ed34"
+    },
+    {
+      "id": "VIS-003",
+      "path": "assets/visual/gameplay/goal_tile.png",
+      "source": "artifacts/pixellab-originals/VIS-003.png",
+      "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A single flat quarter-view diamond goal marker, thick coral-pink outer ring and blank pale-cream center reserved for a code-rendered number, centered with a transparent margin, no numeral or symbol.",
+      "request": {
+        "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A single flat quarter-view diamond goal marker, thick coral-pink outer ring and blank pale-cream center reserved for a code-rendered number, centered with a transparent margin, no numeral or symbol.",
+        "image_size": {
+          "width": 36,
+          "height": 36
+        },
+        "text_guidance_scale": 8,
+        "isometric": true,
+        "no_background": true,
+        "color_image": {
+          "type": "base64",
+          "base64": "iVBORw0KGgoAAAANSUhEUgAAAAYAAAABCAIAAAByq0inAAAAHElEQVR4nGP8/+P5rV/fHn+TcL63geHkD8OZKwGGaAygwiu/zgAAAABJRU5ErkJggg=="
+        },
+        "seed": 2103
+      },
+      "usage": null,
+      "recovered_from_completed_file": true,
+      "source_sha256": "ab0c4d9473c5e3fee484745fb6cfb9cff887fce9b4b55af773ab6952443d8c31",
+      "final_sha256": "f37171bed1c0df56ee708b6fd4c020a08011d4039bfd937c63d8e46904305fe6"
+    },
+    {
+      "id": "VIS-004",
+      "path": "assets/visual/gameplay/void_tile.png",
+      "source": "artifacts/pixellab-originals/VIS-004.png",
+      "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A single empty-space indicator for a quarter-view board: clean dark-plum diamond-shaped toy-room shadow with a slightly broken lower edge, clearly distinct from a floor block, centered with a transparent margin, no object or symbol.",
+      "request": {
+        "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A single empty-space indicator for a quarter-view board: clean dark-plum diamond-shaped toy-room shadow with a slightly broken lower edge, clearly distinct from a floor block, centered with a transparent margin, no object or symbol.",
+        "image_size": {
+          "width": 36,
+          "height": 36
+        },
+        "text_guidance_scale": 8,
+        "isometric": true,
+        "no_background": true,
+        "color_image": {
+          "type": "base64",
+          "base64": "iVBORw0KGgoAAAANSUhEUgAAAAYAAAABCAIAAAByq0inAAAAHElEQVR4nGP8/+P5rV/fHn+TcL63geHkD8OZKwGGaAygwiu/zgAAAABJRU5ErkJggg=="
+        },
+        "seed": 2104
+      },
+      "usage": null,
+      "recovered_from_completed_file": true,
+      "source_sha256": "3700de42bb5b9cf36618ec089bd6ababe5f01a858c1da304820734507d956041",
+      "final_sha256": "8f71edd02c20d0148e4d8a854bab73109ee16c547ee0534a633bd9395afa28a9"
+    },
+    {
+      "id": "VIS-005",
+      "path": "assets/visual/ui/prediction_badge.png",
+      "source": "artifacts/pixellab-originals/VIS-005.png",
+      "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A single round mint UI badge contained entirely inside the centered 20 by 20 pixel safe area of this 32 by 32 canvas, leaving exactly 6 transparent pixels on every outer edge. Blank pale-cream center reserved for one code-rendered number and a 1-pixel dark-plum outline, no numeral or symbol.",
+      "request": {
+        "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A single round mint UI badge contained entirely inside the centered 20 by 20 pixel safe area of this 32 by 32 canvas, leaving exactly 6 transparent pixels on every outer edge. Blank pale-cream center reserved for one code-rendered number and a 1-pixel dark-plum outline, no numeral or symbol.",
+        "image_size": {
+          "width": 32,
+          "height": 32
+        },
+        "text_guidance_scale": 8,
+        "isometric": false,
+        "no_background": true,
+        "color_image": {
+          "type": "base64",
+          "base64": "iVBORw0KGgoAAAANSUhEUgAAAAYAAAABCAIAAAByq0inAAAAHElEQVR4nGP8/+P5rV/fHn+TcL63geHkD8OZKwGGaAygwiu/zgAAAABJRU5ErkJggg=="
+        },
+        "seed": 2105
+      },
+      "usage": {
+        "type": "generations",
+        "generations": 1.0
+      },
+      "source_sha256": "56befd64ca4da944989150c3500fa50962ee58623e6c71f1509b5737aed05b9f",
+      "final_sha256": "ed1a2d2a4a2cf861cd3522ce834c0e1ace57080224df1269dc20ce32858a2a88"
+    },
+    {
+      "id": "VIS-006",
+      "path": "assets/visual/gameplay/start_marker.png",
+      "source": "artifacts/pixellab-originals/VIS-006.png",
+      "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A single mint quarter-view start marker made from four tiny toy arrows pointing inward to a blank center, visibly different from a coral goal marker, centered with a transparent margin, no text or number.",
+      "request": {
+        "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A single mint quarter-view start marker made from four tiny toy arrows pointing inward to a blank center, visibly different from a coral goal marker, centered with a transparent margin, no text or number.",
+        "image_size": {
+          "width": 36,
+          "height": 36
+        },
+        "text_guidance_scale": 8,
+        "isometric": true,
+        "no_background": true,
+        "color_image": {
+          "type": "base64",
+          "base64": "iVBORw0KGgoAAAANSUhEUgAAAAYAAAABCAIAAAByq0inAAAAHElEQVR4nGP8/+P5rV/fHn+TcL63geHkD8OZKwGGaAygwiu/zgAAAABJRU5ErkJggg=="
+        },
+        "seed": 2106
+      },
+      "usage": {
+        "type": "generations",
+        "generations": 1.0
+      },
+      "source_sha256": "04750c024805534f54d8b7fbd82b5d61fcf5296c990a1b28a475215ae71fc905",
+      "final_sha256": "3730a0bc722f7dbbe61ad44749a50b7ce84165b9917b92c26c7c5868b36196c0"
+    },
+    {
+      "id": "VIS-101",
+      "path": "assets/visual/backgrounds/toy_room_wall.png",
+      "source": "artifacts/pixellab-originals/VIS-101.png",
+      "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A flat toy-room wall background for a vertical puzzle game, pastel sky-blue wallpaper, sparse pale clouds and quiet toy-shelf silhouettes placed only at the far outer edges, low contrast and an empty central play area, full opaque canvas.",
+      "request": {
+        "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A flat toy-room wall background for a vertical puzzle game, pastel sky-blue wallpaper, sparse pale clouds and quiet toy-shelf silhouettes placed only at the far outer edges, low contrast and an empty central play area, full opaque canvas.",
+        "image_size": {
+          "width": 360,
+          "height": 400
+        },
+        "text_guidance_scale": 8,
+        "isometric": false,
+        "no_background": false,
+        "color_image": {
+          "type": "base64",
+          "base64": "iVBORw0KGgoAAAANSUhEUgAAAAYAAAABCAIAAAByq0inAAAAHElEQVR4nGP8/+P5rV/fHn+TcL63geHkD8OZKwGGaAygwiu/zgAAAABJRU5ErkJggg=="
+        },
+        "seed": 2107
+      },
+      "usage": {
+        "type": "generations",
+        "generations": 1.0
+      },
+      "source_sha256": "cb029985453d26606fb4cb47e82a5b5c2c27bf7e1c1690a4b954b7706503f214",
+      "final_sha256": "198fdf080d84f582faf8dc0bf104fe9ec9231195642e289e8c88e234e288fd46"
+    },
+    {
+      "id": "VIS-103-A",
+      "path": "assets/visual/decor/cloud.png",
+      "source": "artifacts/pixellab-originals/VIS-103-A.png",
+      "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A single friendly pale-cream pixel-art cloud wall decoration, no face, centered with a transparent margin.",
+      "request": {
+        "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A single friendly pale-cream pixel-art cloud wall decoration, no face, centered with a transparent margin.",
+        "image_size": {
+          "width": 48,
+          "height": 32
+        },
+        "text_guidance_scale": 8,
+        "isometric": false,
+        "no_background": true,
+        "color_image": {
+          "type": "base64",
+          "base64": "iVBORw0KGgoAAAANSUhEUgAAAAYAAAABCAIAAAByq0inAAAAHElEQVR4nGP8/+P5rV/fHn+TcL63geHkD8OZKwGGaAygwiu/zgAAAABJRU5ErkJggg=="
+        },
+        "seed": 2108
+      },
+      "usage": {
+        "type": "generations",
+        "generations": 1.0
+      },
+      "source_sha256": "9cbac38aac30fb0fd6b7b56cc478611d1c67118879ad4f73f78df1c25bc9cf3d",
+      "final_sha256": "f2072474207cad9a34ac4b2d39e6610fd37921e7ec9f47d1afe5fb696c06df4f"
+    },
+    {
+      "id": "VIS-103-B",
+      "path": "assets/visual/decor/star.png",
+      "source": "artifacts/pixellab-originals/VIS-103-B.png",
+      "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A single five-point pastel-yellow toy star wall decoration with a compact dark-plum outline, no face, centered with a transparent margin.",
+      "request": {
+        "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A single five-point pastel-yellow toy star wall decoration with a compact dark-plum outline, no face, centered with a transparent margin.",
+        "image_size": {
+          "width": 32,
+          "height": 32
+        },
+        "text_guidance_scale": 8,
+        "isometric": false,
+        "no_background": true,
+        "color_image": {
+          "type": "base64",
+          "base64": "iVBORw0KGgoAAAANSUhEUgAAAAYAAAABCAIAAAByq0inAAAAHElEQVR4nGP8/+P5rV/fHn+TcL63geHkD8OZKwGGaAygwiu/zgAAAABJRU5ErkJggg=="
+        },
+        "seed": 2109
+      },
+      "usage": {
+        "type": "generations",
+        "generations": 1.0
+      },
+      "source_sha256": "e5c93b05ad7dea0f837dba24a74dccd59a8ea7418e7804c55a67549f1e8183c0",
+      "final_sha256": "3aee2d830918866e3d0897ec249665e465a46742799f80f31adaa94444af08d4"
+    },
+    {
+      "id": "VIS-103-C",
+      "path": "assets/visual/decor/blocks.png",
+      "source": "artifacts/pixellab-originals/VIS-103-C.png",
+      "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A small stack of exactly three colorful toy building blocks in quarter view, mint, peach and sky-blue faces with compact dark-plum outlines, centered with a transparent margin, blank faces without letters or numbers.",
+      "request": {
+        "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A small stack of exactly three colorful toy building blocks in quarter view, mint, peach and sky-blue faces with compact dark-plum outlines, centered with a transparent margin, blank faces without letters or numbers.",
+        "image_size": {
+          "width": 64,
+          "height": 48
+        },
+        "text_guidance_scale": 8,
+        "isometric": true,
+        "no_background": true,
+        "color_image": {
+          "type": "base64",
+          "base64": "iVBORw0KGgoAAAANSUhEUgAAAAYAAAABCAIAAAByq0inAAAAHElEQVR4nGP8/+P5rV/fHn+TcL63geHkD8OZKwGGaAygwiu/zgAAAABJRU5ErkJggg=="
+        },
+        "seed": 2110
+      },
+      "usage": {
+        "type": "generations",
+        "generations": 1.0
+      },
+      "source_sha256": "0e0ebd047e4685ee5bc9ccc04d6ab5ded69eda0ca4b2cb1d447690cf0276c632",
+      "final_sha256": "be66e6f09e5823c515dcb3aed87e878da4fee1fe0f3814b3807e6542fb734a85"
+    },
+    {
+      "id": "VIS-201",
+      "path": "assets/visual/ui/icon_undo.png",
+      "source": "artifacts/pixellab-originals/VIS-201.png",
+      "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A single bold left-curving undo arrow UI icon contained entirely inside the centered 24 by 24 pixel safe area of this 32 by 32 canvas, leaving exactly 4 transparent pixels on every outer edge. Mint fill and 1-pixel dark-plum outline, no text.",
+      "request": {
+        "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A single bold left-curving undo arrow UI icon contained entirely inside the centered 24 by 24 pixel safe area of this 32 by 32 canvas, leaving exactly 4 transparent pixels on every outer edge. Mint fill and 1-pixel dark-plum outline, no text.",
+        "image_size": {
+          "width": 32,
+          "height": 32
+        },
+        "text_guidance_scale": 8,
+        "isometric": false,
+        "no_background": true,
+        "color_image": {
+          "type": "base64",
+          "base64": "iVBORw0KGgoAAAANSUhEUgAAAAYAAAABCAIAAAByq0inAAAAHElEQVR4nGP8/+P5rV/fHn+TcL63geHkD8OZKwGGaAygwiu/zgAAAABJRU5ErkJggg=="
+        },
+        "seed": 2111
+      },
+      "usage": {
+        "type": "generations",
+        "generations": 1.0
+      },
+      "source_sha256": "0fcbcf67e2639e33f95239d5f8630316e20a81be1de2b62dbd2a47858297b108",
+      "final_sha256": "9ab5227a7bbf688e3f49ca8f9e321ed30f735e96ca3b316dc3cf5619584d2a72"
+    },
+    {
+      "id": "VIS-202",
+      "path": "assets/visual/ui/icon_restart.png",
+      "source": "artifacts/pixellab-originals/VIS-202.png",
+      "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A single bold clockwise circular restart arrow UI icon contained entirely inside the centered 24 by 24 pixel safe area of this 32 by 32 canvas, leaving exactly 4 transparent pixels on every outer edge. Mint fill and 1-pixel dark-plum outline, no text.",
+      "request": {
+        "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A single bold clockwise circular restart arrow UI icon contained entirely inside the centered 24 by 24 pixel safe area of this 32 by 32 canvas, leaving exactly 4 transparent pixels on every outer edge. Mint fill and 1-pixel dark-plum outline, no text.",
+        "image_size": {
+          "width": 32,
+          "height": 32
+        },
+        "text_guidance_scale": 8,
+        "isometric": false,
+        "no_background": true,
+        "color_image": {
+          "type": "base64",
+          "base64": "iVBORw0KGgoAAAANSUhEUgAAAAYAAAABCAIAAAByq0inAAAAHElEQVR4nGP8/+P5rV/fHn+TcL63geHkD8OZKwGGaAygwiu/zgAAAABJRU5ErkJggg=="
+        },
+        "seed": 2112
+      },
+      "usage": {
+        "type": "generations",
+        "generations": 1.0
+      },
+      "source_sha256": "166d046cf8960976023e4bfeb1622c793fee7cbc08966ab1536ba051f9f7cf4a",
+      "final_sha256": "5088e35a77b4ad6130f1b51641b89e56719c106f465d9d766d6c4dcf53f136f4"
+    },
+    {
+      "id": "VIS-203",
+      "path": "assets/visual/ui/icon_perfect_star.png",
+      "source": "artifacts/pixellab-originals/VIS-203.png",
+      "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A single cheerful gold five-point perfect-clear star badge contained entirely inside the centered 24 by 24 pixel safe area of this 32 by 32 canvas, leaving exactly 4 transparent pixels on every outer edge. 1-pixel dark-plum outline and one tiny cream highlight pixel, no text.",
+      "request": {
+        "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A single cheerful gold five-point perfect-clear star badge contained entirely inside the centered 24 by 24 pixel safe area of this 32 by 32 canvas, leaving exactly 4 transparent pixels on every outer edge. 1-pixel dark-plum outline and one tiny cream highlight pixel, no text.",
+        "image_size": {
+          "width": 32,
+          "height": 32
+        },
+        "text_guidance_scale": 8,
+        "isometric": false,
+        "no_background": true,
+        "color_image": {
+          "type": "base64",
+          "base64": "iVBORw0KGgoAAAANSUhEUgAAAAYAAAABCAIAAAByq0inAAAAHElEQVR4nGP8/+P5rV/fHn+TcL63geHkD8OZKwGGaAygwiu/zgAAAABJRU5ErkJggg=="
+        },
+        "seed": 2113
+      },
+      "usage": {
+        "type": "generations",
+        "generations": 1.0
+      },
+      "source_sha256": "3330f3aa26b374001b128471428f0ac4aa1c3ee339c3dbdc9a2b6dcecf1fdf42",
+      "final_sha256": "924230ed3db5be1cd5d0917b8f02d1b9376c6f961d26529e6a3443eec6942075"
+    },
+    {
+      "id": "VIS-204",
+      "path": "assets/visual/ui/panel_9slice.png",
+      "source": "artifacts/pixellab-originals/VIS-204.png",
+      "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A single blank square nine-slice UI panel skin with exactly 8-pixel fixed corners and a repeatable flat center: cream center, pale-mint inner highlight, peach lower edge and 1-pixel dark-plum outline. Symmetric clean corners, no text, icon, symbol or decoration.",
+      "request": {
+        "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A single blank square nine-slice UI panel skin with exactly 8-pixel fixed corners and a repeatable flat center: cream center, pale-mint inner highlight, peach lower edge and 1-pixel dark-plum outline. Symmetric clean corners, no text, icon, symbol or decoration.",
+        "image_size": {
+          "width": 48,
+          "height": 48
+        },
+        "text_guidance_scale": 8,
+        "isometric": false,
+        "no_background": true,
+        "color_image": {
+          "type": "base64",
+          "base64": "iVBORw0KGgoAAAANSUhEUgAAAAYAAAABCAIAAAByq0inAAAAHElEQVR4nGP8/+P5rV/fHn+TcL63geHkD8OZKwGGaAygwiu/zgAAAABJRU5ErkJggg=="
+        },
+        "seed": 2114
+      },
+      "usage": {
+        "type": "generations",
+        "generations": 1.0
+      },
+      "source_sha256": "5f918c62cc99fb2608763205009b44dae8c1a9e46b866184d632fee8a8fcf709",
+      "final_sha256": "cb2fc9a40d153b57a0e2274f32396aac023202ecc8673ea27c3fefd0485e3806"
+    },
+    {
+      "id": "VIS-205",
+      "path": "assets/visual/ui/button_default_9slice.png",
+      "source": "artifacts/pixellab-originals/VIS-205.png",
+      "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A single blank horizontal nine-slice default button skin with exactly 6-pixel fixed corners and a repeatable flat center: cream face, mint upper highlight, peach lower edge and 1-pixel dark-plum outline. No text, icon or symbol.",
+      "request": {
+        "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A single blank horizontal nine-slice default button skin with exactly 6-pixel fixed corners and a repeatable flat center: cream face, mint upper highlight, peach lower edge and 1-pixel dark-plum outline. No text, icon or symbol.",
+        "image_size": {
+          "width": 48,
+          "height": 24
+        },
+        "text_guidance_scale": 8,
+        "isometric": false,
+        "no_background": true,
+        "color_image": {
+          "type": "base64",
+          "base64": "iVBORw0KGgoAAAANSUhEUgAAAAYAAAABCAIAAAByq0inAAAAHElEQVR4nGP8/+P5rV/fHn+TcL63geHkD8OZKwGGaAygwiu/zgAAAABJRU5ErkJggg=="
+        },
+        "seed": 2115
+      },
+      "usage": {
+        "type": "generations",
+        "generations": 1.0
+      },
+      "source_sha256": "d014fdc9fb0f69c0f991ed32420f3b11cf4ff49aef7317857f8990c44300be21",
+      "final_sha256": "b96edde9b17b8e07fb158c8fcc6ebabfff0c21ee029d25ea3b135a5df68aa903"
+    },
+    {
+      "id": "VIS-206",
+      "path": "assets/visual/ui/button_primary_9slice.png",
+      "source": "artifacts/pixellab-originals/VIS-206.png",
+      "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A single blank horizontal nine-slice primary button skin with exactly 6-pixel fixed corners and a repeatable flat center: coral face, pale-gold upper highlight and 1-pixel dark-plum outline. More prominent than the default button, no text, icon or symbol.",
+      "request": {
+        "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A single blank horizontal nine-slice primary button skin with exactly 6-pixel fixed corners and a repeatable flat center: coral face, pale-gold upper highlight and 1-pixel dark-plum outline. More prominent than the default button, no text, icon or symbol.",
+        "image_size": {
+          "width": 48,
+          "height": 24
+        },
+        "text_guidance_scale": 8,
+        "isometric": false,
+        "no_background": true,
+        "color_image": {
+          "type": "base64",
+          "base64": "iVBORw0KGgoAAAANSUhEUgAAAAYAAAABCAIAAAByq0inAAAAHElEQVR4nGP8/+P5rV/fHn+TcL63geHkD8OZKwGGaAygwiu/zgAAAABJRU5ErkJggg=="
+        },
+        "seed": 2116
+      },
+      "usage": {
+        "type": "generations",
+        "generations": 1.0
+      },
+      "source_sha256": "c5410fb19b55a34b5795d9523dff5bfd8816a203d5a0c61872517778da673c4c",
+      "final_sha256": "69b63a3a7358accfe57f587b0778e6e856cb5ff02599da0392d2bad083ea5e2f"
+    },
+    {
+      "id": "VIS-207",
+      "path": "assets/visual/ui/button_pressed_9slice.png",
+      "source": "artifacts/pixellab-originals/VIS-207.png",
+      "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A single blank horizontal nine-slice pressed button skin with exactly 6-pixel fixed corners and a repeatable flat center: muted mint face shifted one pixel downward, darker upper inset and 1-pixel dark-plum outline. No text, icon or symbol.",
+      "request": {
+        "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A single blank horizontal nine-slice pressed button skin with exactly 6-pixel fixed corners and a repeatable flat center: muted mint face shifted one pixel downward, darker upper inset and 1-pixel dark-plum outline. No text, icon or symbol.",
+        "image_size": {
+          "width": 48,
+          "height": 24
+        },
+        "text_guidance_scale": 8,
+        "isometric": false,
+        "no_background": true,
+        "color_image": {
+          "type": "base64",
+          "base64": "iVBORw0KGgoAAAANSUhEUgAAAAYAAAABCAIAAAByq0inAAAAHElEQVR4nGP8/+P5rV/fHn+TcL63geHkD8OZKwGGaAygwiu/zgAAAABJRU5ErkJggg=="
+        },
+        "seed": 2117
+      },
+      "usage": {
+        "type": "generations",
+        "generations": 1.0
+      },
+      "source_sha256": "5af80007af9d2090d03f82e5c71569326e25d42384826a26f40c913b93d5e4e8",
+      "final_sha256": "c543a2482357fb77ca026c68a3bde0bc7005f7ca9bb11ede5961992138d51732"
+    },
+    {
+      "id": "VIS-208",
+      "path": "assets/visual/ui/view_tab_9slice.png",
+      "source": "artifacts/pixellab-originals/VIS-208.png",
+      "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A single blank horizontal nine-slice view-selector tab skin with exactly 6-pixel fixed corners and a repeatable flat center: sky-blue face, cream top highlight, coral bottom accent and 1-pixel dark-plum outline. No text, icon or symbol.",
+      "request": {
+        "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A single blank horizontal nine-slice view-selector tab skin with exactly 6-pixel fixed corners and a repeatable flat center: sky-blue face, cream top highlight, coral bottom accent and 1-pixel dark-plum outline. No text, icon or symbol.",
+        "image_size": {
+          "width": 52,
+          "height": 28
+        },
+        "text_guidance_scale": 8,
+        "isometric": false,
+        "no_background": true,
+        "color_image": {
+          "type": "base64",
+          "base64": "iVBORw0KGgoAAAANSUhEUgAAAAYAAAABCAIAAAByq0inAAAAHElEQVR4nGP8/+P5rV/fHn+TcL63geHkD8OZKwGGaAygwiu/zgAAAABJRU5ErkJggg=="
+        },
+        "seed": 2118
+      },
+      "usage": {
+        "type": "generations",
+        "generations": 1.0
+      },
+      "source_sha256": "17bfa3c2bc009fe04af094de18916d0c70dff6736453ea4b3a2a191962bf846c",
+      "final_sha256": "ca5fe5de898b1c1b571559c09e298394449f3fe2687a937327e16977f4cbce2f"
+    },
+    {
+      "id": "VIS-209",
+      "path": "assets/visual/ui/direction_button.png",
+      "source": "artifacts/pixellab-originals/VIS-209.png",
+      "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A single blank direction-pad button background shaped like a rounded toy block, cream open center, mint raised edge, peach lower shadow and 1-pixel dark-plum outline. Leave the center empty for a code-rendered arrow and prediction badge; no arrow, text, number or symbol.",
+      "request": {
+        "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A single blank direction-pad button background shaped like a rounded toy block, cream open center, mint raised edge, peach lower shadow and 1-pixel dark-plum outline. Leave the center empty for a code-rendered arrow and prediction badge; no arrow, text, number or symbol.",
+        "image_size": {
+          "width": 54,
+          "height": 44
+        },
+        "text_guidance_scale": 8,
+        "isometric": false,
+        "no_background": true,
+        "color_image": {
+          "type": "base64",
+          "base64": "iVBORw0KGgoAAAANSUhEUgAAAAYAAAABCAIAAAByq0inAAAAHElEQVR4nGP8/+P5rV/fHn+TcL63geHkD8OZKwGGaAygwiu/zgAAAABJRU5ErkJggg=="
+        },
+        "seed": 2119
+      },
+      "usage": {
+        "type": "generations",
+        "generations": 1.0
+      },
+      "source_sha256": "36bb5ea2c02d5e9bb565a2ac0bd0c4aad2caff694af87016b62870ac78d05644",
+      "final_sha256": "28c1af963702545af93cb3f0f32a4baf1206a8098351d3e387e69b417d73ca4b"
+    },
+    {
+      "id": "VIS-210",
+      "path": "assets/visual/ui/item_slot_9slice.png",
+      "source": "artifacts/pixellab-originals/VIS-210.png",
+      "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A single blank square nine-slice item-slot skin with exactly 6-pixel fixed corners and a repeatable flat center: pale-cream center, peach inset, mint top highlight and 1-pixel dark-plum outline. No item, text, icon or symbol.",
+      "request": {
+        "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A single blank square nine-slice item-slot skin with exactly 6-pixel fixed corners and a repeatable flat center: pale-cream center, peach inset, mint top highlight and 1-pixel dark-plum outline. No item, text, icon or symbol.",
+        "image_size": {
+          "width": 40,
+          "height": 40
+        },
+        "text_guidance_scale": 8,
+        "isometric": false,
+        "no_background": true,
+        "color_image": {
+          "type": "base64",
+          "base64": "iVBORw0KGgoAAAANSUhEUgAAAAYAAAABCAIAAAByq0inAAAAHElEQVR4nGP8/+P5rV/fHn+TcL63geHkD8OZKwGGaAygwiu/zgAAAABJRU5ErkJggg=="
+        },
+        "seed": 2120
+      },
+      "usage": {
+        "type": "generations",
+        "generations": 1.0
+      },
+      "source_sha256": "9812d627dfe5eafbeb4020adf5e9327a150cf8140b922960b20ea6be6525d57c",
+      "final_sha256": "2aab1f4fec030488daf097f2513aa364b28bf72db43bae4865a6070418d73a58"
+    },
+    {
+      "id": "TEX-301",
+      "path": "assets/visual/3d/toy_block_surface.png",
+      "source": "artifacts/pixellab-originals/TEX-301.png",
+      "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A seamless front-facing material swatch for the flat surface of a handmade toy building block, warm cream base with sparse peach and pale-gold 2 by 2 pixel clusters and subtle checker dither suggesting matte painted wood, four colors maximum, tile seamlessly on all edges. No object silhouette, perspective, border, shadow, letters, numbers, symbols, pips or gradients.",
+      "request": {
+        "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A seamless front-facing material swatch for the flat surface of a handmade toy building block, warm cream base with sparse peach and pale-gold 2 by 2 pixel clusters and subtle checker dither suggesting matte painted wood, four colors maximum, tile seamlessly on all edges. No object silhouette, perspective, border, shadow, letters, numbers, symbols, pips or gradients.",
+        "image_size": {
+          "width": 32,
+          "height": 32
+        },
+        "text_guidance_scale": 8,
+        "isometric": false,
+        "no_background": false,
+        "color_image": {
+          "type": "base64",
+          "base64": "iVBORw0KGgoAAAANSUhEUgAAAAYAAAABCAIAAAByq0inAAAAHElEQVR4nGP8/+P5rV/fHn+TcL63geHkD8OZKwGGaAygwiu/zgAAAABJRU5ErkJggg=="
+        },
+        "seed": 2301
+      },
+      "usage": {
+        "type": "generations",
+        "generations": 1.0
+      },
+      "source_sha256": "4617024801d74104ba6ac4459ed17482016ae1cf6ef4ff54e965e2a0cf539829",
+      "final_sha256": "411ee09bef9ca3a20d6f88a5e247c4fe591ae72732a7c95fe7055c7de1c365a1"
+    },
+    {
+      "id": "TEX-302",
+      "path": "assets/visual/3d/die_surface.png",
+      "source": "artifacts/pixellab-originals/TEX-302.png",
+      "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A seamless front-facing material swatch for a blank cream toy die, warm ivory matte painted wood with very sparse 2 by 2 pixel highlights and peach shadow pixels, four colors maximum, tile seamlessly on all edges. No pips, dots, numerals, letters, symbols, object silhouette, perspective, border, shadow or gradients.",
+      "request": {
+        "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A seamless front-facing material swatch for a blank cream toy die, warm ivory matte painted wood with very sparse 2 by 2 pixel highlights and peach shadow pixels, four colors maximum, tile seamlessly on all edges. No pips, dots, numerals, letters, symbols, object silhouette, perspective, border, shadow or gradients.",
+        "image_size": {
+          "width": 32,
+          "height": 32
+        },
+        "text_guidance_scale": 8,
+        "isometric": false,
+        "no_background": false,
+        "color_image": {
+          "type": "base64",
+          "base64": "iVBORw0KGgoAAAANSUhEUgAAAAYAAAABCAIAAAByq0inAAAAHElEQVR4nGP8/+P5rV/fHn+TcL63geHkD8OZKwGGaAygwiu/zgAAAABJRU5ErkJggg=="
+        },
+        "seed": 2302
+      },
+      "usage": {
+        "type": "generations",
+        "generations": 1.0
+      },
+      "source_sha256": "a45411aec7a0ed61aa8f75aaf3a0ec24ae4a1274259b2cbae607b6aad0fa40ff",
+      "final_sha256": "6cddfafd5c6ab734ac1242ce8b70b3150484f8b745be9089b27343fefd386a30"
+    }
+  ]
+}

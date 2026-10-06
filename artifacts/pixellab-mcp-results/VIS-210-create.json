@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "id: 04cf1aa9-ea82-468c-9027-3e83ae5f8534\njob_id: 04cf1aa9-ea82-468c-9027-3e83ae5f8534\ndescription: Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. Preserve the supplied approved item-slot composition. A single blank square nine-slice item-slot skin with exactly 6-pixel fixed corners and a repeatable flat center: pale-cream center, peach inset, mint top highlight and dark-plum outline. No item, text, icon or symbol.\nsize: 40x40px\ntransparent: True\nasset_id: 96dc4610-ef80-50f8-a27a-78c39c21b648\nasset_status: pending (saved when generation completes)\ninit_image: yes (strength 500)\nforced_palette: yes\nseed: 2120\ncost: 1 generation\nstatus: processing (~10-40s)\n\nhint: get_image(job_id=\"04cf1aa9-ea82-468c-9027-3e83ae5f8534\")"
+    }
+  ],
+  "isError": false
+}

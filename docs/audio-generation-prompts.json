@@ -1,0 +1,299 @@
+{
+  "status": "generated_connected_automated_validation_passed_manual_listening_pending",
+  "date": "2026-10-05",
+  "assets": [
+    {
+      "id": "SFX-001",
+      "path": "assets/audio/sfx/dice_roll.wav",
+      "model": "Stable Audio 3 Small-SFX (local MLX)",
+      "seed": 3101,
+      "duration_seconds": 0.35,
+      "prompt": "A tiny wooden toy die rolls forward once across a smooth toy-block surface, three light tactile clicks, warm dry close-up sound, cute and gentle, no music, no voice, no reverb, no harsh impact."
+    },
+    {
+      "id": "SFX-002",
+      "path": "assets/audio/sfx/dice_land.wav",
+      "model": "Stable Audio 3 Small-SFX (local MLX)",
+      "seed": 3102,
+      "duration_seconds": 0.25,
+      "prompt": "One soft toy die landing tap on painted wood, a compact warm wooden tok with a tiny felted tail, gentle and satisfying, no roll, no music, no voice, no reverb."
+    },
+    {
+      "id": "SFX-003",
+      "path": "assets/audio/sfx/blocked.wav",
+      "model": "Stable Audio 3 Small-SFX (local MLX)",
+      "seed": 3103,
+      "duration_seconds": 0.45,
+      "prompt": "A cute invalid-move cue from a small wooden toy: one light wobble click followed by a soft short downward pop, friendly correction, no alarm, no music, no voice, no harsh bass."
+    },
+    {
+      "id": "SFX-004",
+      "path": "assets/audio/sfx/undo.wav",
+      "model": "Stable Audio 3 Small-SFX (local MLX)",
+      "seed": 3104,
+      "duration_seconds": 0.4,
+      "prompt": "A short magical rewind made from two reversed toy xylophone ticks and a soft wooden pop, clean and playful, clearly communicates undo, no music bed, no voice, no long reverb."
+    },
+    {
+      "id": "SFX-005",
+      "path": "assets/audio/sfx/clear.wav",
+      "model": "Stable Audio 3 Small-SFX (local MLX)",
+      "seed": 3105,
+      "duration_seconds": 1.0,
+      "prompt": "A short cheerful puzzle success flourish played by a tiny toy bell and two warm xylophone notes with a delicate sparkle tail, modest celebration, no voice, no background music, clean ending."
+    },
+    {
+      "id": "SFX-006",
+      "path": "assets/audio/sfx/perfect_clear.wav",
+      "model": "Stable Audio 3 Small-SFX (local MLX)",
+      "seed": 3106,
+      "duration_seconds": 1.1,
+      "prompt": "A bright perfect-puzzle success flourish: three ascending toy xylophone notes, small bell chime and crisp star sparkle, richer than a normal success but still gentle, no voice, no music bed, clean ending."
+    },
+    {
+      "id": "SFX-007",
+      "path": "assets/audio/sfx/death.wav",
+      "model": "Stable Audio 3 Small-SFX (local MLX)",
+      "seed": 3107,
+      "duration_seconds": 0.75,
+      "prompt": "A cute toy block tumbles once and settles, followed by two soft descending wooden marimba notes, gentle game-over cue, clearly different from an invalid move, no fear, no voice, no music bed, no harsh impact."
+    },
+    {
+      "id": "BGM-001",
+      "path": "assets/audio/music/puzzle_loop.wav",
+      "model": "MiniMax Music 3 BF16 (local MLX)",
+      "seed": 4101,
+      "requested_duration_seconds": 82,
+      "lyrics": "[instrumental]",
+      "prompt": "Instrumental seamless background music for a cute toy-block puzzle room, relaxed 92 BPM, warm major key, gentle toy piano melody, soft xylophone, muted wooden percussion and light pizzicato, curious and cozy, sparse arrangement, low dynamic range, no vocals, no dramatic drop, no cinematic swell, no recognizable melody. Leave musical space for UI sounds."
+    },
+    {
+      "id": "BGM-002",
+      "path": "assets/audio/music/clear_jingle.ogg",
+      "model": "MiniMax Music 3 BF16 (local MLX)",
+      "seed": 4102,
+      "requested_duration_seconds": 7,
+      "lyrics": "[instrumental]",
+      "prompt": "A five-second instrumental celebration matching a cute toy-block puzzle room: toy piano, soft xylophone and one bell sparkle, warm major-key cadence, concise clean ending, lighter than a fanfare, no vocals, no drums, no dramatic swell, no recognizable melody."
+    },
+    {
+      "id": "BGM-003",
+      "path": "assets/audio/music/menu_loop.wav",
+      "model": "MiniMax Music 3 BF16 (local MLX)",
+      "seed": 4103,
+      "requested_duration_seconds": 45,
+      "lyrics": "[instrumental]",
+      "prompt": "Instrumental seamless main-menu background music for a cute pastel toy-block dice puzzle, welcoming and calm 76 BPM, warm major key, delicate music box motif, soft toy piano, gentle celesta, airy felt pads and very light brushed shaker, playful premium mobile game mood, simple memorable original theme, low dynamic range, no vocals, no dramatic drop, no cinematic swell, no heavy drums, no recognizable melody. Leave space for menu UI sounds."
+    },
+    {
+      "id": "VO-001",
+      "path": "assets/audio/voice/tutorial_move.wav",
+      "model": "Chatterbox Multilingual v3 (local MLX, default reference voice)",
+      "exaggeration": 0.35,
+      "text": "화면의 방향 화살표를 눌러 주사위를 굴려 보세요."
+    },
+    {
+      "id": "VO-002",
+      "path": "assets/audio/voice/tutorial_goal.wav",
+      "model": "Chatterbox Multilingual v3 (local MLX, default reference voice)",
+      "exaggeration": 0.35,
+      "text": "목표 숫자와 윗면 숫자가 같아야 해요."
+    },
+    {
+      "id": "VO-003",
+      "path": "assets/audio/voice/tutorial_safe.wav",
+      "model": "Chatterbox Multilingual v3 (local MLX, default reference voice)",
+      "exaggeration": 0.3,
+      "text": "위험한 블록에서는 Undo나 재시작으로 돌아올 수 있어요."
+    },
+    {
+      "id": "VO-004",
+      "path": "assets/audio/voice/tutorial_undo.wav",
+      "model": "Chatterbox Multilingual v3 (local MLX, default reference voice)",
+      "exaggeration": 0.3,
+      "text": "Undo 버튼을 누르면 한 번의 행동을 되돌릴 수 있어요."
+    },
+    {
+      "id": "VO-005",
+      "path": "assets/audio/voice/tutorial_par.wav",
+      "model": "Chatterbox Multilingual v3 (local MLX, default reference voice)",
+      "exaggeration": 0.4,
+      "text": "목표 입력 수 안에 풀면 완벽 클리어예요."
+    },
+    {
+      "id": "VO-006",
+      "path": "assets/audio/voice/tutorial_clear.wav",
+      "model": "Chatterbox Multilingual v3 (local MLX, default reference voice)",
+      "exaggeration": 0.45,
+      "text": "잘했어요! 다음 퍼즐로 가 볼까요?"
+    }
+  ],
+  "postprocess": {
+    "sfx": "44.1 kHz, 16-bit mono, loudness normalization with true-peak ceiling and short edge fades",
+    "bgm": "44.1 kHz stereo; BGM-001 cyclic crossfade loop; BGM-002 clean five-second ending and OGG export",
+    "voice": "44.1 kHz, 16-bit mono; silence trim, loudness normalization and duration validation"
+  },
+  "generation_results": {
+    "stable_audio_3": {
+      "model": "stabilityai/stable-audio-open-small SFX transformer via local MLX wrapper",
+      "settings": "sm-sfx transformer, same-s decoder, CFG 2, 8 steps; 2.0-second raw generations because sub-second direct generation produced invalid NaN audio",
+      "raw_directory": "artifacts/audio-sources/stable-audio-3",
+      "processing": "Select the documented active event window, downmix to mono, EBU R128 normalize to -20 LUFS / -2 dBTP, add 8 ms fade-in and 30 ms fade-out, export PCM S16LE 44.1 kHz mono.",
+      "outputs": [
+        {
+          "id": "SFX-001",
+          "source_sha256": "f43c8f13121cff74324d86600e50c6b3c5a7c1dd54588c50bb550a78d40c9170",
+          "source_window_seconds": [
+            0.57,
+            0.92
+          ],
+          "duration_seconds": 0.35,
+          "sha256": "9e8b9da16c801879d029980c2d6edf4644ae7be3534653f8d9e836ccad0f5db7"
+        },
+        {
+          "id": "SFX-002",
+          "source_sha256": "2b74b276a1fe8dee8613b5f072f7778e00144a4d0798ecdfae761beb2c5f0f2e",
+          "source_window_seconds": [
+            0.61,
+            0.86
+          ],
+          "duration_seconds": 0.25,
+          "sha256": "2aac16b5f17c4e0627bd0fe1cf2bb5c9fd6a47c7d0f9705eea87f2ed8e3fcb67"
+        },
+        {
+          "id": "SFX-003",
+          "source_sha256": "a8a782ac88f23f6c40d40a9587433bbc47ec3d1ce238d60a176c4c9af344a654",
+          "source_window_seconds": [
+            0.0,
+            0.45
+          ],
+          "duration_seconds": 0.45,
+          "sha256": "6b68e26ac8efa49551c0b760730f8cf4522c93203826643aec7cb270ce03cddd"
+        },
+        {
+          "id": "SFX-004",
+          "source_sha256": "9ebc065f8352c19f2b626432b60b208d5ea300555b5a22e137e4f741d9f46942",
+          "source_window_seconds": [
+            0.75,
+            1.15
+          ],
+          "duration_seconds": 0.4,
+          "sha256": "8d5321ed4a25ddc5f18acc92542df7717dd5ddf9c2d4990bfeec9655ce3b7469"
+        },
+        {
+          "id": "SFX-005",
+          "source_sha256": "5476ca9f63c1de1da44c6a99b04839c0cdfc3bd0bf081120b85482baf1fbd3b2",
+          "source_window_seconds": [
+            0.0,
+            1.0
+          ],
+          "duration_seconds": 1.0,
+          "sha256": "e1441a2ffa3554c7f9cf11cec36006d604116fd2bbcb96d976411203a816a01c"
+        },
+        {
+          "id": "SFX-006",
+          "source_sha256": "9c3bca50b3e0f3a175e1417400ac5350b58c4ba9c297a3e11a3c075ec9aa7336",
+          "source_window_seconds": [
+            0.0,
+            1.1
+          ],
+          "duration_seconds": 1.1,
+          "sha256": "9ad9f2ad08ef4d54921ea4d3d731550e2bac7ce1f2d53cf529b1029ba1e1ba0f"
+        },
+        {
+          "id": "SFX-007",
+          "source_sha256": "96159cdc3d9b3bd33bfff1031da42f86e5c0ab0fb238a679f2a815d24ba09daa",
+          "source_window_seconds": [
+            0.0,
+            0.75
+          ],
+          "duration_seconds": 0.75,
+          "sha256": "a9cc79d06d8c3a97f3eb1b5f2672294bdd781d09c81b967e6d76e07775473504"
+        }
+      ]
+    },
+    "minimax_music_3": {
+      "model": "/Users/moonpace/minimax-music3/models/MiniMax-Music3-bf16 via local MLX",
+      "settings": "30 steps, instrumental token, seeds recorded per asset",
+      "raw_directory": "artifacts/audio-sources/minimax-music3",
+      "processing": "BGM-001 uses a 25-second cyclic crossfade unit repeated to 75 seconds. BGM-002 is trimmed to a five-second jingle. BGM-003 returned 11.122358 seconds despite the 45-second request; make a 9.622358-second cyclic unit with a 1.5-second equal-power tail/head crossfade, repeat it six times to 57.734150 seconds, and normalize to -22 LUFS / -2 dBTP.",
+      "loop_validation": {
+        "internal_boundary_sample_jump": 0.028168,
+        "final_loop_boundary_sample_jump": 0.028168,
+        "sampled_adjacent_jump_p99": 0.050812
+      },
+      "outputs": [
+        {
+          "id": "BGM-001",
+          "source_sha256": "aa87dc9059854716588aa683349c25ddaffa1b8920fdf8da5064ce74d23bbc76",
+          "source_duration_seconds": 29.547392,
+          "duration_seconds": 75.0,
+          "format": "PCM S16LE 44.1 kHz stereo WAV",
+          "sha256": "86e0f00010ccb7d4373cdab2e9e0260dd6807ce6e2cb8a6f7dd9177d40da6c5a"
+        },
+        {
+          "id": "BGM-002",
+          "source_sha256": "d987e323b14fb1a13cbd7c1b4df0966666053af711f6e2dbcf79956cbaac3898",
+          "source_duration_seconds": 6.989206,
+          "duration_seconds": 5.000998,
+          "format": "Vorbis 44.1 kHz stereo OGG",
+          "sha256": "756be888ad54cb431fb4b5334515817a9df728981becb66cdde7a19b4a127d89"
+        },
+        {
+          "id": "BGM-003",
+          "source_sha256": "bfbd4def66c28ca6300805f3007b2086c7c5e0f4b04478e9b6633caba9c23f45",
+          "source_duration_seconds": 11.122358,
+          "unit_duration_seconds": 9.622358,
+          "duration_seconds": 57.73415,
+          "crossfade_seconds": 1.5,
+          "format": "PCM S16LE 44.1 kHz stereo WAV",
+          "unit_sha256": "462b66f5a567ad7ff3c17501f6c458e741915be44f54eeedbac8d5772afaa807",
+          "sha256": "61161f4921ba30882b656cf4a957e908345f8f2b8b10fddee1e88950e22de13b",
+          "loop_validation": {
+            "final_loop_boundary_sample_jump": 0.00238037109375,
+            "sampled_adjacent_jump_p99": 0.04119873046875
+          }
+        }
+      ]
+    },
+    "chatterbox": {
+      "model": "mlx-community/chatterbox-multilingual-v3",
+      "reference": "/Users/moonpace/local-tts/voices/default.wav",
+      "reference_sha256": "f8974f85181b23d50cfb7951455a382f84ef6be9472e8fc10917f044028d72ed",
+      "raw_directory": "artifacts/audio-sources/chatterbox",
+      "processing": "Trim leading and trailing silence only, normalize to -19 LUFS / -2 dBTP, resample and export PCM S16LE 44.1 kHz mono with 10 ms input and 20 ms output fades. No time stretching or text substitution.",
+      "outputs": [
+        {
+          "id": "VO-001",
+          "duration_seconds": 3.044558,
+          "sha256": "694fef4079e8499f77c26b034bd15debea75d7c87c5a42d0b79d8c55fff36847"
+        },
+        {
+          "id": "VO-002",
+          "duration_seconds": 2.47619,
+          "sha256": "cec066e13aa1f28a9d5d5b063742e09bfaeb7f929820b2d5a73ebfcc2c4f913b"
+        },
+        {
+          "id": "VO-003",
+          "duration_seconds": 3.487415,
+          "sha256": "bc51a4b135314f5b39d83baa4836b9293de0f16a60220dc752b92286d3c7056f"
+        },
+        {
+          "id": "VO-004",
+          "duration_seconds": 3.448639,
+          "sha256": "08ef3ff610c4ecf77d62e130f7fb01801f450a04f715707a9f4690b0b6f5c20b"
+        },
+        {
+          "id": "VO-005",
+          "duration_seconds": 2.369025,
+          "sha256": "c3a8163047388e425e6236e2278779481da1fc30a20eb5e28a69b93728045ae6"
+        },
+        {
+          "id": "VO-006",
+          "duration_seconds": 2.504082,
+          "sha256": "01c5de0aa79ba59d7304b8a3e2b1c5800cd8d2a611b92a08a0ddbc400370a995"
+        }
+      ]
+    }
+  }
+}

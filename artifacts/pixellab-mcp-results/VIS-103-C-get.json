@@ -1,0 +1,8 @@
+{
+  "asset_id": "VIS-103-C",
+  "job_id": "f7ea4579-4af7-4546-9107-73cd0d206f86",
+  "is_error": false,
+  "text": "status: completed\nid: f7ea4579-4af7-4546-9107-73cd0d206f86\njob_id: f7ea4579-4af7-4546-9107-73cd0d206f86\nframes: 1\ntransparent: yes\nasset_id: 40823446-77a9-5045-bb86-2d4e5fabe6a7\nasset_type: image\nasset_status: saved\ngallery: saved to your PixelLab gallery (pixellab.ai/create)\ndownload: https://api.pixellab.ai/mcp/images/f7ea4579-4af7-4546-9107-73cd0d206f86/download",
+  "mime_type": "image/png",
+  "received_image": true
+}

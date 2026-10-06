@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "id: 4e38c0ae-ef96-46bb-ab94-8be7a0c872fa\njob_id: 4e38c0ae-ef96-46bb-ab94-8be7a0c872fa\ndescription: Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. Use the supplied arrow silhouette exactly. A single bold clockwise circular restart arrow UI icon inside the centered 24 by 24 safe area, mint fill and 1-pixel dark-plum outline on transparent background. The arrowhead must be obvious; no plain ring, object, text or opaque backdrop.\nsize: 32x32px\ntransparent: True\nasset_id: 5c19e85a-031a-5030-8f27-d113989a8cfb\nasset_status: pending (saved when generation completes)\ninit_image: yes (strength 475)\nforced_palette: yes\nseed: 2212\ncost: 1 generation\nstatus: processing (~10-40s)\n\nhint: get_image(job_id=\"4e38c0ae-ef96-46bb-ab94-8be7a0c872fa\")"
+    }
+  ],
+  "isError": false
+}

@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "id: 3585c6bb-6ceb-459a-b65e-c787f747f76a\njob_id: 3585c6bb-6ceb-459a-b65e-c787f747f76a\ndescription: Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. Preserve the supplied approved star-badge composition inside the centered 24 by 24 safe area. A single cheerful gold five-point perfect-clear star badge with a 1-pixel dark-plum outline and one tiny cream highlight pixel, no text.\nsize: 32x32px\ntransparent: True\nasset_id: 681d64bd-4f83-556b-8a4b-0ecadf1d96c5\nasset_status: pending (saved when generation completes)\ninit_image: yes (strength 500)\nforced_palette: yes\nseed: 2113\ncost: 1 generation\nstatus: processing (~10-40s)\n\nhint: get_image(job_id=\"3585c6bb-6ceb-459a-b65e-c787f747f76a\")"
+    }
+  ],
+  "isError": false
+}

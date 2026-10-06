@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "id: 62720ffc-9a2f-4f74-82ec-72eebd847bb6\njob_id: 62720ffc-9a2f-4f74-82ec-72eebd847bb6\ndescription: Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. Use the supplied composition guide. A joyful vertical main-menu hero illustration: one large blank cream, mint and peach six-sided toy die tumbling gently above exactly three pastel toy floor blocks and one small coral goal diamond, quarter-view isometric, centered with generous transparent margins. Every die face must remain completely blank for a clean logo-like silhouette. No pips, dots, holes, spots, numerals, letters, symbols, characters, faces, scenery, frame or opaque backdrop.\nsize: 240x180px\ntransparent: True\nasset_id: ea56ac45-e634-594f-8cc6-a0305d7fe54f\nasset_status: pending (saved when generation completes)\ninit_image: yes (strength 300)\nforced_palette: yes\nseed: 3211\ncost: 1 generation\nstatus: processing (~10-40s)\n\nhint: get_image(job_id=\"62720ffc-9a2f-4f74-82ec-72eebd847bb6\")"
+    }
+  ],
+  "isError": false
+}

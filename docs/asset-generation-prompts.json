@@ -1,0 +1,295 @@
+{
+  "date": "2026-10-05",
+  "status": "nonapproved_display_draft_wrong_model",
+  "required_replacement_model": "PixelLab generate-image-pixflux",
+  "note": "This file is an audit record of the currently connected draft images. These images are not approved final resources because they were not generated with the user-designated PixelLab model.",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "id": "VIS-001",
+      "path": "assets/visual/gameplay/die_body.png",
+      "display_size": [
+        36,
+        36
+      ],
+      "transparent": true,
+      "prompt": "Use case: stylized-concept. Asset VIS-001 for Tumble Toy, a cozy pastel pixel-art puzzle game. Generate a single blank toy die body, transparent PNG, native 36x36 pixels if supported. Isometric quarter view, cream top face, pale mint left face, peach right face, dark plum 1 pixel outline. Crisp discrete pixel art, no antialiasing, no realistic 3D rendering. Centered complete cube with small transparent margin. Absolutely no pips, numbers, letters, text, watermark, background or shadow outside the cube. Top and both side faces blank so game can overlay numbers. Save the generated image.",
+      "source": "/Users/moonpace/.codex/generated_images/01a109ef-867c-7ba3-92c1-df80708d350d/exec-683f3a9c-09ce-45ea-a973-798810d107ff.png",
+      "source_size": [
+        1254,
+        1254
+      ],
+      "sha256": "fd26fd6ff11682ca26394ea1864e1acb3f086849f5ff49ee40e84ada72e70b06",
+      "content_rect": [
+        182,
+        156,
+        891,
+        946
+      ]
+    },
+    {
+      "id": "VIS-002",
+      "path": "assets/visual/gameplay/floor_tile.png",
+      "display_size": [
+        36,
+        36
+      ],
+      "transparent": true,
+      "prompt": "Use case: stylized-concept. Production sprite for Tumble Toy, a cozy pastel 2D pixel-art puzzle game. Crisp hard pixel edges, flat limited colors, no gradients, no antialiasing, dark plum 1-2 logical pixel outline. No text, letters, numbers, watermark, photorealism or realistic 3D render. Single asset centered and complete, no extra objects. Asset VIS-002. Logical canvas 36x36 pixels. A single isometric diamond floor tile, wide flat cream top, shallow peach left side and darker peach right side. Diamond top corners at left/right mid-height, top and bottom center; no perspective convergence. Clean dark plum outline, thin block thickness, no symbols, tile fills canvas width with 2% margin. Must tile into an isometric board. Genuine transparent background, small transparent outer margin.",
+      "source": "/Users/moonpace/.codex/generated_images/01a109ef-867c-7ba3-92c1-df80708d350d/exec-630f0ca4-2005-47df-96cf-edd6ce77c0a7.png",
+      "source_size": [
+        1475,
+        1067
+      ],
+      "sha256": "79e2a7edffafed232b2211f10430f187b8a69172d15681c23bad087ab9ee5031",
+      "content_rect": [
+        13,
+        71,
+        1449,
+        913
+      ]
+    },
+    {
+      "id": "VIS-003",
+      "path": "assets/visual/gameplay/goal_tile.png",
+      "display_size": [
+        36,
+        36
+      ],
+      "transparent": true,
+      "prompt": "Use case: stylized-concept. Production sprite for Tumble Toy, a cozy pastel 2D pixel-art puzzle game. Crisp hard pixel edges, flat limited colors, no gradients, no antialiasing, dark plum 1-2 logical pixel outline. No text, letters, numbers, watermark, photorealism or realistic 3D render. Single asset centered and complete, no extra objects. Asset VIS-003. Logical canvas 36x36 pixels. A single flat diamond isometric goal marker with coral-pink thick outer border and blank pale cream center, no block depth. Center will receive a code-rendered number. No numerals. Entire diamond visible. Genuine transparent background, small transparent outer margin.",
+      "source": "/Users/moonpace/.codex/generated_images/01a109ef-867c-7ba3-92c1-df80708d350d/exec-8cc18d86-2820-47ae-959d-a5f3d7e9d885.png",
+      "source_size": [
+        1254,
+        1254
+      ],
+      "sha256": "4973d3f58732da2ccd3870565c312ef34679ea3b38d98dd9a311150cbbf44c38",
+      "content_rect": [
+        117,
+        126,
+        1020,
+        1003
+      ]
+    },
+    {
+      "id": "VIS-005",
+      "path": "assets/visual/ui/prediction_badge.png",
+      "display_size": [
+        20,
+        20
+      ],
+      "transparent": true,
+      "prompt": "Use case: stylized-concept. Production sprite for Tumble Toy, a cozy pastel 2D pixel-art puzzle game. Crisp hard pixel edges, flat limited colors, no gradients, no antialiasing, dark plum 1-2 logical pixel outline. No text, letters, numbers, watermark, photorealism or realistic 3D render. Single asset centered and complete, no extra objects. Asset VIS-005. Logical canvas 20x20 pixels. A single round mint badge, blank pale cream center for one game-rendered number, dark plum outline. Simple bold readable circle, no symbols. Genuine transparent background, small transparent outer margin.",
+      "source": "/Users/moonpace/.codex/generated_images/01a109ef-867c-7ba3-92c1-df80708d350d/exec-afc64ff2-0c12-4a78-a39a-386baaa2bdff.png",
+      "source_size": [
+        1254,
+        1254
+      ],
+      "sha256": "fd192db37a084e9af1eacff9a4a7702a7a4e5a83d550d0da9d0fa9ace9b0e041",
+      "content_rect": [
+        205,
+        229,
+        844,
+        821
+      ]
+    },
+    {
+      "id": "VIS-006",
+      "path": "assets/visual/gameplay/start_marker.png",
+      "display_size": [
+        36,
+        36
+      ],
+      "transparent": true,
+      "prompt": "Use case: stylized-concept. Production sprite for Tumble Toy, a cozy pastel 2D pixel-art puzzle game. Crisp hard pixel edges, flat limited colors, no gradients, no antialiasing, dark plum 1-2 logical pixel outline. No text, letters, numbers, watermark, photorealism or realistic 3D render. Single asset centered and complete, no extra objects. Asset VIS-006. Logical canvas 36x36 pixels. A single isometric start marker: four tiny mint toy arrows pointing inward toward a completely transparent empty diamond center. No underlying tile, no text. Entire marker visible. Genuine transparent background, small transparent outer margin.",
+      "source": "/Users/moonpace/.codex/generated_images/01a109ef-867c-7ba3-92c1-df80708d350d/exec-e06fd0c8-9da4-4c9e-875a-2dd81468e350.png",
+      "source_size": [
+        1254,
+        1254
+      ],
+      "sha256": "7b6164104448d01f63c9f6462c524badcf7f5a140ebb4c1b850a8ea807d2d90c",
+      "content_rect": [
+        203,
+        230,
+        849,
+        796
+      ]
+    },
+    {
+      "id": "VIS-004",
+      "path": "assets/visual/gameplay/void_tile.png",
+      "display_size": [
+        36,
+        36
+      ],
+      "transparent": true,
+      "prompt": "Use case: stylized-concept. Production sprite for Tumble Toy, a cozy pastel 2D pixel-art puzzle game. Crisp hard pixel edges, flat limited colors, no gradients, no antialiasing, dark plum 1-2 logical pixel outline. No text, letters, numbers, watermark, photorealism or realistic 3D render. Single asset centered and complete, no extra objects. Asset VIS-004. Logical canvas 36x36 pixels. A single flat isometric diamond dark plum shadow marking a missing floor tile. Simple dark plum center and muted lavender dashed edge, no block height, no objects, no text. Visible distinct silhouette. Genuine transparent background, small transparent outer margin.",
+      "source": "/Users/moonpace/.codex/generated_images/01a109ef-867c-7ba3-92c1-df80708d350d/exec-78d1fdae-38d7-48e9-b24b-ce1d1bc26174.png",
+      "source_size": [
+        1254,
+        1254
+      ],
+      "sha256": "05d8e750075d0faa8be81da4b5c794e1b4d1ed69c5c17e9a2121feb7ba5033ab",
+      "content_rect": [
+        283,
+        452,
+        689,
+        353
+      ]
+    },
+    {
+      "id": "VIS-101",
+      "path": "assets/visual/backgrounds/toy_room_wall.png",
+      "display_size": [
+        360,
+        410
+      ],
+      "transparent": false,
+      "prompt": "Use case: stylized-concept. Production sprite for Tumble Toy, a cozy pastel 2D pixel-art puzzle game. Crisp hard pixel edges, flat limited colors, no gradients, no antialiasing, dark plum 1-2 logical pixel outline. No text, letters, numbers, watermark, photorealism or realistic 3D render. Single asset centered and complete, no extra objects. Asset VIS-101. Logical canvas 360x410 pixels. A full rectangular low-contrast pastel sky-blue toy-room wallpaper background. Tiny pale clouds and toy shelf silhouettes confined to far left and right edges, huge entirely empty pastel blue central 80% area for game board. No floor perspective, no foreground, no interface. Opaque background. Aspect ratio 360:410.",
+      "source": "/Users/moonpace/.codex/generated_images/01a109ef-867c-7ba3-92c1-df80708d350d/exec-5088e4f4-08c6-43b2-bcd3-2ced29ef4537.png",
+      "source_size": [
+        1175,
+        1338
+      ],
+      "sha256": "12704b2af46410ab0a07502522bc98f295e53ae77e782c0fe37e60d5cc3125c2",
+      "content_rect": [
+        0,
+        0,
+        1175,
+        1338
+      ]
+    },
+    {
+      "id": "VIS-103-A",
+      "path": "assets/visual/decor/cloud.png",
+      "display_size": [
+        48,
+        32
+      ],
+      "transparent": true,
+      "prompt": "Use case: stylized-concept. Production sprite for Tumble Toy, a cozy pastel 2D pixel-art puzzle game. Crisp hard pixel edges, flat limited colors, no gradients, no antialiasing, dark plum 1-2 logical pixel outline. No text, letters, numbers, watermark, photorealism or realistic 3D render. Single asset centered and complete, no extra objects. Asset VIS-103-A. Logical canvas 48x32 pixels. A single friendly cream pixel cloud wall decoration with pale blue underside and dark plum outline, no face. Wide silhouette aspect ratio 48:32. Genuine transparent background, small transparent outer margin.",
+      "source": "/Users/moonpace/.codex/generated_images/01a109ef-867c-7ba3-92c1-df80708d350d/exec-cca84d66-e220-43cb-8b84-5a97a51394f0.png",
+      "source_size": [
+        1536,
+        1024
+      ],
+      "sha256": "78830ce87e6de5dcaf4cd9f25f8397bb8f119747ff6650cfa57543cb27dd3cb7",
+      "content_rect": [
+        39,
+        188,
+        1461,
+        652
+      ]
+    },
+    {
+      "id": "VIS-103-B",
+      "path": "assets/visual/decor/star.png",
+      "display_size": [
+        32,
+        32
+      ],
+      "transparent": true,
+      "prompt": "Use case: stylized-concept. Production sprite for Tumble Toy, a cozy pastel 2D pixel-art puzzle game. Crisp hard pixel edges, flat limited colors, no gradients, no antialiasing, dark plum 1-2 logical pixel outline. No text, letters, numbers, watermark, photorealism or realistic 3D render. Single asset centered and complete, no extra objects. Asset VIS-103-B. Logical canvas 32x32 pixels. A single pastel yellow five-point toy star wall decoration with subtle peach underside and dark plum outline, no face. Genuine transparent background, small transparent outer margin.",
+      "source": "/Users/moonpace/.codex/generated_images/01a109ef-867c-7ba3-92c1-df80708d350d/exec-e27ca699-3253-4a5e-b494-f1921b522af1.png",
+      "source_size": [
+        1254,
+        1254
+      ],
+      "sha256": "5691e64ef975bdb5e1025e0e3a658d627b8762449fedb36b74a6e65b4ac64dae",
+      "content_rect": [
+        171,
+        219,
+        913,
+        832
+      ]
+    },
+    {
+      "id": "VIS-103-C",
+      "path": "assets/visual/decor/blocks.png",
+      "display_size": [
+        64,
+        48
+      ],
+      "transparent": true,
+      "prompt": "Use case: stylized-concept. Production sprite for Tumble Toy, a cozy pastel 2D pixel-art puzzle game. Crisp hard pixel edges, flat limited colors, no gradients, no antialiasing, dark plum 1-2 logical pixel outline. No text, letters, numbers, watermark, photorealism or realistic 3D render. Single asset centered and complete, no extra objects. Asset VIS-103-C. Logical canvas 64x48 pixels. A small stack of three blank toy blocks in pastel coral, mint and sky blue, isometric quarter view. Dark plum outlines, no letters or numbers, no ground. Aspect ratio 64:48. Genuine transparent background, small transparent outer margin.",
+      "source": "/Users/moonpace/.codex/generated_images/01a109ef-867c-7ba3-92c1-df80708d350d/exec-4d22931c-6280-4b83-ada3-e1e72aa7b849.png",
+      "source_size": [
+        1448,
+        1086
+      ],
+      "sha256": "62670a267f30435ec5529fd168a88570a51e4d3c8152b42bebacb306dc9585e2",
+      "content_rect": [
+        268,
+        111,
+        914,
+        920
+      ]
+    },
+    {
+      "id": "VIS-201",
+      "path": "assets/visual/ui/icon_undo.png",
+      "display_size": [
+        24,
+        24
+      ],
+      "transparent": true,
+      "prompt": "Use case: stylized-concept. Production sprite for Tumble Toy, a cozy pastel 2D pixel-art puzzle game. Crisp hard pixel edges, flat limited colors, no gradients, no antialiasing, dark plum 1-2 logical pixel outline. No text, letters, numbers, watermark, photorealism or realistic 3D render. Single asset centered and complete, no extra objects. Asset VIS-201. Logical canvas 24x24 pixels. A single mint left-curving undo arrow, broad clear arrowhead pointing LEFT at top-left, arc sweeps clockwise from bottom-right toward top-left. Dark plum outline, no text, no badge. Genuine transparent background, small transparent outer margin.",
+      "source": "/Users/moonpace/.codex/generated_images/01a109ef-867c-7ba3-92c1-df80708d350d/exec-537932c2-b593-4322-b68f-02bebb40a1dd.png",
+      "source_size": [
+        1254,
+        1254
+      ],
+      "sha256": "35fe6f73408ae7fe71b6bedcef07eafb9b0116fbe65a1b149480919b0833c545",
+      "content_rect": [
+        172,
+        123,
+        926,
+        1006
+      ]
+    },
+    {
+      "id": "VIS-202",
+      "path": "assets/visual/ui/icon_restart.png",
+      "display_size": [
+        24,
+        24
+      ],
+      "transparent": true,
+      "prompt": "Use case: stylized-concept. Production sprite for Tumble Toy, a cozy pastel 2D pixel-art puzzle game. Crisp hard pixel edges, flat limited colors, no gradients, no antialiasing, dark plum 1-2 logical pixel outline. No text, letters, numbers, watermark, photorealism or realistic 3D render. Single asset centered and complete, no extra objects. Asset VIS-202. Logical canvas 24x24 pixels. A single mint clockwise circular restart arrow with clear triangular arrowhead on upper right, dark plum outline, no text, no badge. Genuine transparent background, small transparent outer margin.",
+      "source": "/Users/moonpace/.codex/generated_images/01a109ef-867c-7ba3-92c1-df80708d350d/exec-c4122d64-2386-4cda-b925-e0fb3c21ee3e.png",
+      "source_size": [
+        1254,
+        1254
+      ],
+      "sha256": "d2e9973bb1ff36ce1ea553580c55a2f79b094720845b8500def9851432c84427",
+      "content_rect": [
+        228,
+        255,
+        798,
+        792
+      ]
+    },
+    {
+      "id": "VIS-203",
+      "path": "assets/visual/ui/icon_perfect_star.png",
+      "display_size": [
+        24,
+        24
+      ],
+      "transparent": true,
+      "prompt": "Use case: stylized-concept. Production sprite for Tumble Toy, a cozy pastel 2D pixel-art puzzle game. Crisp hard pixel edges, flat limited colors, no gradients, no antialiasing, dark plum 1-2 logical pixel outline. No text, letters, numbers, watermark, photorealism or realistic 3D render. Single asset centered and complete, no extra objects. Asset VIS-203. Logical canvas 24x24 pixels. A single cheerful gold five-point perfect-clear star badge with dark plum outline, bright cream tiny highlight, no face, no text. Genuine transparent background, small transparent outer margin.",
+      "source": "/Users/moonpace/.codex/generated_images/01a109ef-867c-7ba3-92c1-df80708d350d/exec-cbfc7ce2-cdbf-45fd-8ca2-05d7c11ae1c6.png",
+      "source_size": [
+        1254,
+        1254
+      ],
+      "sha256": "5e9c789e3ddb7659c57c3be6b62bff320fd804f38c6d20640ced72aa0363e3fc",
+      "content_rect": [
+        94,
+        117,
+        1066,
+        1021
+      ]
+    }
+  ]
+}

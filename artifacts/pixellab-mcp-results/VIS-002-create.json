@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "id: 6cd5f660-0457-49b1-a8c8-3fc8a6ef3b97\njob_id: 6cd5f660-0457-49b1-a8c8-3fc8a6ef3b97\ndescription: Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. Use the supplied simple isometric tile silhouette exactly. A single plain seamless quarter-view toy building-block floor tile, warm cream diamond top with shallow peach side faces and clear edge separation, centered with a transparent margin. Flat undecorated faces only: no icing, cracks, plants, objects, symbols or surface pattern.\nsize: 36x36px\ntransparent: True\nasset_id: f948d987-404d-525a-a09f-43cb9da8f26f\nasset_status: pending (saved when generation completes)\ninit_image: yes (strength 400)\nforced_palette: yes\nseed: 2202\ncost: 1 generation\nstatus: processing (~10-40s)\n\nhint: get_image(job_id=\"6cd5f660-0457-49b1-a8c8-3fc8a6ef3b97\")"
+    }
+  ],
+  "isError": false
+}

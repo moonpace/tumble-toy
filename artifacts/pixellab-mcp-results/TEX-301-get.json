@@ -1,0 +1,8 @@
+{
+  "asset_id": "TEX-301",
+  "job_id": "d9095aaa-c890-4683-9433-d1b28f603c50",
+  "is_error": false,
+  "text": "status: completed\nid: d9095aaa-c890-4683-9433-d1b28f603c50\njob_id: d9095aaa-c890-4683-9433-d1b28f603c50\nframes: 1\ntransparent: no — every pixel is opaque. If you asked for no_background, background removal did not find one; retry or describe the subject on a plain background.\nasset_id: 1abf7bd0-69dc-5b8c-9691-85a203d27ed1\nasset_type: image\nasset_status: saved\ngallery: saved to your PixelLab gallery (pixellab.ai/create)\ndownload: https://api.pixellab.ai/mcp/images/d9095aaa-c890-4683-9433-d1b28f603c50/download",
+  "mime_type": "image/png",
+  "received_image": true
+}

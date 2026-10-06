@@ -1,0 +1,32 @@
+{
+  "generated_at_unix": 1791211649.722285,
+  "results": [
+    {
+      "id": "VIS-001",
+      "path": "assets/visual/gameplay/die_body.png",
+      "source": "artifacts/pixellab-originals/VIS-001.png",
+      "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A single blank six-sided toy die body in quarter view, cream top face, mint left face, peach right face, compact 1-pixel dark-plum outline, centered with a transparent margin. No pips or symbols; all three visible faces must stay blank for code-rendered values.",
+      "request": {
+        "description": "Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. A single blank six-sided toy die body in quarter view, cream top face, mint left face, peach right face, compact 1-pixel dark-plum outline, centered with a transparent margin. No pips or symbols; all three visible faces must stay blank for code-rendered values.",
+        "image_size": {
+          "width": 36,
+          "height": 36
+        },
+        "text_guidance_scale": 8,
+        "isometric": true,
+        "no_background": true,
+        "color_image": {
+          "type": "base64",
+          "base64": "iVBORw0KGgoAAAANSUhEUgAAAAYAAAABCAIAAAByq0inAAAAHElEQVR4nGP8/+P5rV/fHn+TcL63geHkD8OZKwGGaAygwiu/zgAAAABJRU5ErkJggg=="
+        },
+        "seed": 2101
+      },
+      "usage": {
+        "type": "generations",
+        "generations": 1.0
+      },
+      "source_sha256": "6d999a9dff9f49a50ce0aec69d1cf33127104c7e097113af1c1d9b329ffb771d",
+      "final_sha256": "d99cfc29accf102e92f1f5629e9246a93b305e9a52668d96e48ac446daa0d981"
+    }
+  ]
+}

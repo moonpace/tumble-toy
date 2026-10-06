@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "id: 520a1dda-b93c-4a0e-901c-29fca1efe861\njob_id: 520a1dda-b93c-4a0e-901c-29fca1efe861\ndescription: Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. Preserve the supplied approved star composition. A single five-point pastel-yellow toy star wall decoration with a compact dark-plum outline, no face, centered with a transparent margin.\nsize: 32x32px\ntransparent: True\nasset_id: 3700dcff-6f52-5895-8a95-1fd864d31b05\nasset_status: pending (saved when generation completes)\ninit_image: yes (strength 500)\nforced_palette: yes\nseed: 2109\ncost: 1 generation\nstatus: processing (~10-40s)\n\nhint: get_image(job_id=\"520a1dda-b93c-4a0e-901c-29fca1efe861\")"
+    }
+  ],
+  "isError": false
+}

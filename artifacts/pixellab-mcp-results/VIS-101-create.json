@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "id: 2deb0058-5209-455a-8469-c1481c88aeee\njob_id: 2deb0058-5209-455a-8469-c1481c88aeee\ndescription: Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. Preserve the supplied approved background composition. A flat toy-room wall background for a vertical puzzle game, pastel sky-blue wallpaper, sparse pale clouds and quiet toy-shelf silhouettes placed only at the far outer edges, low contrast and an empty central play area, full opaque canvas.\nsize: 360x400px\ntransparent: False\nasset_id: 00d8314d-b2cf-5d3d-b39c-ce44b967a1a9\nasset_status: pending (saved when generation completes)\ninit_image: yes (strength 500)\nforced_palette: yes\nseed: 2107\ncost: 1 generation\nstatus: processing (~10-40s)\n\nhint: get_image(job_id=\"2deb0058-5209-455a-8469-c1481c88aeee\")"
+    }
+  ],
+  "isError": false
+}

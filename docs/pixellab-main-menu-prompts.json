@@ -1,0 +1,51 @@
+{
+  "status": "mcp_generated_connected_validation_passed",
+  "model": "PixelLab create_image_pixflux",
+  "transport": "PixelLab MCP via https://api.pixellab.ai/mcp",
+  "asset": {
+    "id": "VIS-211",
+    "path": "assets/visual/ui/menu_hero.png",
+    "size": [
+      288,
+      192
+    ]
+  },
+  "attempts": [
+    {
+      "status": "rejected_composition_too_sparse",
+      "mcp_job_id": "83638094-4814-4d71-83c4-6d0f33ebde48",
+      "asset_id": "b17f31e6-362b-5358-92c7-6ff128a12af1",
+      "seed": 48261,
+      "no_background": true,
+      "prompt": "Polished pixel art game menu hero for a cute dice puzzle: one cream toy die with dark plum pips rolling across a compact isometric path of chunky pastel wooden blocks, visible top and side faces like a small 3D board, coral goal block with a soft sparkle, sky blue, warm cream, mint and coral palette, crisp low-resolution pixel clusters, playful premium mobile game key art, balanced centered composition, no text, no letters, no numbers, no interface, no border"
+    },
+    {
+      "status": "approved",
+      "mcp_job_id": "1fc528d0-e31d-4e5a-bea4-2fe14e811cc3",
+      "asset_id": "e148f5bc-9462-5950-8864-6c42d9d868f8",
+      "seed": 48262,
+      "no_background": false,
+      "prompt": "Pixel art mobile game menu hero, a dense winding S-shaped isometric puzzle board made from exactly twelve connected chunky cream wooden cube tiles, filling eighty percent of the canvas, one large cream toy die with dark plum pips standing on the near end, one coral goal tile with sparkle at the far end, visible top and side faces matching a 3D orthographic game board, pastel sky blue background with tiny cream clouds, warm cream mint coral and dark plum palette, crisp low-resolution pixel clusters, premium cute puzzle game key art, centered composition, no text, no letters, no numbers, no buttons, no border",
+      "source": "artifacts/pixellab-main-menu/VIS-211-v2-source.png",
+      "download": "https://api.pixellab.ai/mcp/images/1fc528d0-e31d-4e5a-bea4-2fe14e811cc3/download",
+      "source_sha256": "4a143fa8f5dbacf25162c085aa026e9484e72f5f67ce92e91e234a12ab31c44b",
+      "postprocess": "Flood-filled only the two cyan background colors connected to the canvas edges to alpha 0; clouds, board, die, goal and shadows were preserved.",
+      "final_sha256": "1e67ba31235d8f2c8ee3a17f628be1b61f08314771adfc08102418c5a0176b2a",
+      "final": "artifacts/pixellab-main-menu/VIS-211-v2.png"
+    }
+  ],
+  "previous_revision": {
+    "mcp_job_id": "62720ffc-9a2f-4f74-82ec-72eebd847bb6",
+    "seed": 3211,
+    "final_sha256": "dade34f63448b2913768ba7b88c239c464ea20037799f47525656ebb3b593b08"
+  },
+  "validation": {
+    "asset_audit": "passed: 21 runtime visual assets",
+    "menu_flow": "passed: main, tutorial, stage select, settings and final 3D play",
+    "stage_lock": "passed: cleared plus next stage only",
+    "settings": "passed: music, sfx and voice apply immediately",
+    "rules": "passed: 100 levels",
+    "campaign": "passed: 1537 inputs across 100 stages",
+    "capture": "artifacts/campaign/main-menu-flow.png"
+  }
+}

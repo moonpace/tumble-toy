@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "id: 6276f7d8-de78-448e-b093-a84e8a960da2\njob_id: 6276f7d8-de78-448e-b093-a84e8a960da2\ndescription: Pixel art game resource for Tumble Toy, a cute handmade toy-block puzzle game. Pastel sky blue, cream, mint, peach, coral-pink and dark-plum palette; crisp hard pixels; simple readable shapes; charming toy-room style; no text, no letters, no numbers, no watermark, no photorealism, no smooth antialiasing. Preserve the supplied approved goal-tile composition. A single flat quarter-view diamond goal marker, thick coral-pink outer ring and blank pale-cream center reserved for a code-rendered number, centered with a transparent margin, no numeral or symbol.\nsize: 36x36px\ntransparent: True\nasset_id: 843c9d10-66c5-5c03-8e12-ce8fb8cdfc3d\nasset_status: pending (saved when generation completes)\ninit_image: yes (strength 500)\nforced_palette: yes\nseed: 2103\ncost: 1 generation\nstatus: processing (~10-40s)\n\nhint: get_image(job_id=\"6276f7d8-de78-448e-b093-a84e8a960da2\")"
+    }
+  ],
+  "isError": false
+}

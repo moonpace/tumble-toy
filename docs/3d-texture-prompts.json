@@ -1,0 +1,30 @@
+{
+  "status": "generated_via_pixellab_mcp_and_connected",
+  "model": "PixelLab generate-image-pixflux",
+  "requested_size": [32, 32],
+  "palette": ["#fff8e7", "#ffd884", "#e5a75f", "#302846"],
+  "assets": [
+    {
+      "id": "TEX-301",
+      "path": "assets/visual/3d/toy_block_surface.png",
+      "transparent_background": false,
+      "prompt_record": "docs/pixellab-generation-prompts.json#TEX-301",
+      "mcp_job_id": "d9095aaa-c890-4683-9433-d1b28f603c50",
+      "sha256": "6d839c6a0375857a154eee2dfa54a2a5f5c2836e3c27c6a87369118ca1266b99"
+    },
+    {
+      "id": "TEX-302",
+      "path": "assets/visual/3d/die_surface.png",
+      "transparent_background": false,
+      "prompt_record": "docs/pixellab-generation-prompts.json#TEX-302",
+      "mcp_job_id": "9402a1eb-0be4-4b46-963f-6137d42cbf39",
+      "sha256": "67c6c5c20945cc7b9f61aeaf9ab65d1351651912c99610162a7bcae4e051227d"
+    }
+  ],
+  "generation": {
+    "transport": "PixelLab MCP via mcp-remote",
+    "tool": "create_image_pixflux",
+    "result_record": "artifacts/pixellab-mcp-final-results.json"
+  },
+  "validation": "32x32 PNG, connected to Godot StandardMaterial3D albedo textures with nearest filtering"
+}

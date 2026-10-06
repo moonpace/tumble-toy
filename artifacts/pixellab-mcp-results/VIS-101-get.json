@@ -1,0 +1,8 @@
+{
+  "asset_id": "VIS-101",
+  "job_id": "2deb0058-5209-455a-8469-c1481c88aeee",
+  "is_error": false,
+  "text": "status: completed\nid: 2deb0058-5209-455a-8469-c1481c88aeee\njob_id: 2deb0058-5209-455a-8469-c1481c88aeee\nframes: 1\ntransparent: no — every pixel is opaque. If you asked for no_background, background removal did not find one; retry or describe the subject on a plain background.\nasset_id: 00d8314d-b2cf-5d3d-b39c-ce44b967a1a9\nasset_type: image\nasset_status: saved\ngallery: saved to your PixelLab gallery (pixellab.ai/create)\ndownload: https://api.pixellab.ai/mcp/images/2deb0058-5209-455a-8469-c1481c88aeee/download",
+  "mime_type": "image/png",
+  "received_image": true
+}

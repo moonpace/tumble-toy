@@ -1,0 +1,22 @@
+{
+  "gameplay/die_body.png": [0, 0, 36, 36],
+  "gameplay/floor_tile.png": [0, 0, 36, 36],
+  "gameplay/goal_tile.png": [0, 0, 36, 36],
+  "gameplay/void_tile.png": [0, 0, 36, 36],
+  "gameplay/start_marker.png": [0, 0, 36, 36],
+  "backgrounds/toy_room_wall.png": [0, 0, 360, 410],
+  "decor/cloud.png": [0, 0, 48, 32],
+  "decor/star.png": [0, 0, 32, 32],
+  "decor/blocks.png": [0, 0, 64, 48],
+  "ui/prediction_badge.png": [0, 0, 20, 20],
+  "ui/icon_undo.png": [0, 0, 24, 24],
+  "ui/icon_restart.png": [0, 0, 24, 24],
+  "ui/icon_perfect_star.png": [0, 0, 24, 24],
+  "ui/panel_9slice.png": [0, 0, 48, 48],
+  "ui/button_default_9slice.png": [0, 0, 48, 24],
+  "ui/button_primary_9slice.png": [0, 0, 48, 24],
+  "ui/button_pressed_9slice.png": [0, 0, 48, 24],
+  "ui/view_tab_9slice.png": [0, 0, 52, 28],
+  "ui/direction_button.png": [0, 0, 54, 44],
+  "ui/item_slot_9slice.png": [0, 0, 40, 40]
+}

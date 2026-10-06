@@ -1,0 +1,179 @@
+{
+  "transport": "PixelLab MCP via mcp-remote",
+  "server": "https://api.pixellab.ai/mcp",
+  "tool": "create_ui_asset",
+  "ui_asset_id": "766f3f62-ff96-4c13-8e58-68f2e8f72d54",
+  "prompt_record": "docs/pixellab-ui-v2-prompts.json",
+  "style_reference_sha256": "79fb0a31ce70228e733d896ba9a1826eff28b1b72dc93530772e2b585638a658",
+  "source_sheet_sha256": "2d6a24d22d39f91df86bf6ef825108f0418980d992aa432c3d864dc1eac7d6f7",
+  "assets": [
+    {
+      "id": "VIS-204",
+      "version": 2,
+      "path": "assets/visual/ui/panel_9slice.png",
+      "mcp_tool": "create_ui_asset",
+      "mcp_ui_asset_id": "766f3f62-ff96-4c13-8e58-68f2e8f72d54",
+      "source_sheet": "artifacts/pixellab-ui-v2/ui-kit-512.png",
+      "source_sheet_sha256": "2d6a24d22d39f91df86bf6ef825108f0418980d992aa432c3d864dc1eac7d6f7",
+      "crop_box": [
+        16,
+        16,
+        240,
+        240
+      ],
+      "resize": {
+        "size": [
+          48,
+          48
+        ],
+        "filter": "nearest"
+      },
+      "postprocess": "none beyond crop and nearest resize",
+      "final_sha256": "ac09cf8d2dd00def2f7a92480ab91bd863eb872798d39ceb2caa9d34943f184d"
+    },
+    {
+      "id": "VIS-205",
+      "version": 2,
+      "path": "assets/visual/ui/button_default_9slice.png",
+      "mcp_tool": "create_ui_asset",
+      "mcp_ui_asset_id": "766f3f62-ff96-4c13-8e58-68f2e8f72d54",
+      "source_sheet": "artifacts/pixellab-ui-v2/ui-kit-512.png",
+      "source_sheet_sha256": "2d6a24d22d39f91df86bf6ef825108f0418980d992aa432c3d864dc1eac7d6f7",
+      "crop_box": [
+        272,
+        24,
+        496,
+        80
+      ],
+      "resize": {
+        "size": [
+          48,
+          24
+        ],
+        "filter": "nearest"
+      },
+      "postprocess": "none beyond crop and nearest resize",
+      "final_sha256": "4240c341bfe4cd3a6963c83c7ac779a087bea7fd3d6329a746cbdbe08bb622f3"
+    },
+    {
+      "id": "VIS-206",
+      "version": 2,
+      "path": "assets/visual/ui/button_primary_9slice.png",
+      "mcp_tool": "create_ui_asset",
+      "mcp_ui_asset_id": "766f3f62-ff96-4c13-8e58-68f2e8f72d54",
+      "source_sheet": "artifacts/pixellab-ui-v2/ui-kit-512.png",
+      "source_sheet_sha256": "2d6a24d22d39f91df86bf6ef825108f0418980d992aa432c3d864dc1eac7d6f7",
+      "crop_box": [
+        272,
+        96,
+        496,
+        152
+      ],
+      "resize": {
+        "size": [
+          48,
+          24
+        ],
+        "filter": "nearest"
+      },
+      "postprocess": "none beyond crop and nearest resize",
+      "final_sha256": "b5c282ad831a58c1a46f9e238b09d789a98412f6492c1193aa4e840dec69d876"
+    },
+    {
+      "id": "VIS-207",
+      "version": 2,
+      "path": "assets/visual/ui/button_pressed_9slice.png",
+      "mcp_tool": "create_ui_asset",
+      "mcp_ui_asset_id": "766f3f62-ff96-4c13-8e58-68f2e8f72d54",
+      "source_sheet": "artifacts/pixellab-ui-v2/ui-kit-512.png",
+      "source_sheet_sha256": "2d6a24d22d39f91df86bf6ef825108f0418980d992aa432c3d864dc1eac7d6f7",
+      "crop_box": [
+        272,
+        168,
+        496,
+        224
+      ],
+      "resize": {
+        "size": [
+          48,
+          24
+        ],
+        "filter": "nearest"
+      },
+      "postprocess": "none beyond crop and nearest resize",
+      "final_sha256": "f0c4f63577dda159a50f75d09634b438dd678afeed67a4ed4389275a9f8c6693"
+    },
+    {
+      "id": "VIS-208",
+      "version": 2,
+      "path": "assets/visual/ui/view_tab_9slice.png",
+      "mcp_tool": "create_ui_asset",
+      "mcp_ui_asset_id": "766f3f62-ff96-4c13-8e58-68f2e8f72d54",
+      "source_sheet": "artifacts/pixellab-ui-v2/ui-kit-512.png",
+      "source_sheet_sha256": "2d6a24d22d39f91df86bf6ef825108f0418980d992aa432c3d864dc1eac7d6f7",
+      "crop_box": [
+        272,
+        240,
+        496,
+        296
+      ],
+      "resize": {
+        "size": [
+          52,
+          28
+        ],
+        "filter": "nearest"
+      },
+      "postprocess": "none beyond crop and nearest resize",
+      "final_sha256": "7523cc35741e818a5d66f932e22c15335f296763e221a5f65dc6372425c7abf3"
+    },
+    {
+      "id": "VIS-209",
+      "version": 2,
+      "path": "assets/visual/ui/direction_button.png",
+      "mcp_tool": "create_ui_asset",
+      "mcp_ui_asset_id": "766f3f62-ff96-4c13-8e58-68f2e8f72d54",
+      "source_sheet": "artifacts/pixellab-ui-v2/ui-kit-512.png",
+      "source_sheet_sha256": "2d6a24d22d39f91df86bf6ef825108f0418980d992aa432c3d864dc1eac7d6f7",
+      "crop_box": [
+        272,
+        320,
+        368,
+        400
+      ],
+      "resize": {
+        "size": [
+          54,
+          44
+        ],
+        "filter": "nearest"
+      },
+      "postprocess": "none beyond crop and nearest resize",
+      "final_sha256": "d6fd73c0f9bdc82194d0d7bf5c166bc7ec2d76ed6e1d77f1ac9d0da78a7de8d0"
+    },
+    {
+      "id": "VIS-210",
+      "version": 2,
+      "path": "assets/visual/ui/item_slot_9slice.png",
+      "mcp_tool": "create_ui_asset",
+      "mcp_ui_asset_id": "766f3f62-ff96-4c13-8e58-68f2e8f72d54",
+      "source_sheet": "artifacts/pixellab-ui-v2/ui-kit-512.png",
+      "source_sheet_sha256": "2d6a24d22d39f91df86bf6ef825108f0418980d992aa432c3d864dc1eac7d6f7",
+      "crop_box": [
+        400,
+        320,
+        496,
+        416
+      ],
+      "resize": {
+        "size": [
+          40,
+          40
+        ],
+        "filter": "nearest"
+      },
+      "postprocess": "approved palette remap dark teal to cream and teal to mint",
+      "final_sha256": "942d755db2572b98413c89090bf6e49a1eb4c7e76fa8e745e400a9112c9e9a84"
+    }
+  ]
+}
